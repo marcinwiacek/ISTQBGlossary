@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ISTQB glossary</string>
+    <string name="ad_unit_id"></string>
+    <string name="search_hint">Searching - topics</string>
+    <string name="opis">Searching inside dictionaries selected in application</string>    
+</resources>

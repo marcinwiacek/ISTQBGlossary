@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="up">
+		<item name="222plus">2.2.2 polsko-angielski (02.11.2013, sjsi.org)</item>
+		<item name="24us">2.4 English (04.07.2014, istqb.org)</item>
+		<item name="23us">2.3 English (28.03.2014, istqb.org)</item>
+		<item name="22us">2.2 English (19.10.2012, istqb.org)</item>
+	</string-array>
+	<string-array name="down">
+		<item name="empty">none</item>
+		<item name="222plus">2.2.2 polsko-angielski (02.11.2013, sjsi.org)</item>
+		<item name="24us">2.4 English (04.07.2014, istqb.org)</item>
+		<item name="23us">2.3 English (28.03.2014, istqb.org)</item>
+		<item name="22us">2.2 English (19.10.2012, istqb.org)</item>
+	</string-array>
+	<string-array name="upValues">
+		<item name="222plus">222plus.txt</item>
+		<item name="24us">24us.txt</item>
+		<item name="23us">23us.txt</item>
+		<item name="22us">22us.txt</item>
+	</string-array>
+	<string-array name="downValues">
+		<item name="empty">none.txt</item>
+		<item name="222plus">222plus.txt</item>
+		<item name="24us">24us.txt</item>
+		<item name="23us">23us.txt</item>
+		<item name="22us">22us.txt</item>
+	</string-array>
+	<string-array name="language">
+		<item name="auto">automatic</item>
+		<item name="Polish">polski</item>
+		<item name="English">English</item>
+	</string-array>
+	<string-array name="languageValues">
+		<item name="auto">auto</item>
+		<item name="Polish">pl_PL</item>
+		<item name="English">en_US</item>
+	</string-array>
+</resources>

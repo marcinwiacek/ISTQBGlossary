@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+   <PreferenceCategory android:title="Informacje">
+	<Preference
+                android:title="Wesprzyj autora"
+                android:summary="Kliknij aby otworzyć stronę WWW z adresami PayPal/Bitcoin i kontaktem."
+                android:key="Czyszczenie" />
+	<Preference
+                android:title="Wyślij raport"
+                android:summary="Kliknij aby otworzyć program pocztowy z adresem autora i aktualnymi danymi."
+                android:key="Czyszczenie2" />
+    </PreferenceCategory>
+  
+   <PreferenceCategory android:title="Ustawienia">
+  <ListPreference
+	            android:key="up"
+	            android:title="Góra"
+	            android:summary=""
+	            android:defaultValue="24us.txt"
+	            android:entries="@array/up"
+	            android:entryValues="@array/upValues"
+	        />    
+  <ListPreference
+	            android:key="down"
+	            android:title="Dół"
+	            android:summary=""
+	            android:defaultValue="none.txt"
+	            android:entries="@array/down"
+	            android:entryValues="@array/downValues"
+	        />    
+        <CheckBoxPreference
+                android:key="SyncMode"
+                android:title="Synchronizacja"
+                android:defaultValue="false"
+                android:summary="Wszystkie funkcje (Cofnij/Skocz/Szukaj) działają również na dole" android:enabled="true" />
+        <CheckBoxPreference
+                android:key="DiffMode"
+                android:title="Tryb różnic"
+                android:defaultValue="false"
+                android:summary="Pokazywanie różnic zamiast pełnych słowników" android:enabled="true" />
+        <CheckBoxPreference
+                android:key="No_Lock"
+                android:title="Brak blokowania ekranu"
+                android:defaultValue="false"
+                android:summary="Wyłączenie automatycznej blokady" android:enabled="true" />
+        <CheckBoxPreference
+                android:key="Obrot"
+                android:title="Obrót"
+                android:defaultValue="false"
+                android:summary="Możliwość zmiany orientacji ekranu" android:enabled="true" />
+
+        <CheckBoxPreference
+                android:key="OwnTextSize"
+                android:title="Własna wielkość tekstu"
+                android:defaultValue="false"
+                android:summary="Używanie własnej wielkości tekstu" android:enabled="true" />
+                
+<EditTextPreference
+    android:defaultValue="22"
+    android:dialogTitle="Podaj wielkość tekstu"
+    android:inputType="number"
+    android:key="TextSize"
+    android:summary=""
+    android:title="Własna wielkość tekstu" />
+
+	  <ListPreference
+	            android:key="wyglad"
+	            android:title="Wygląd"
+	            android:summary=""
+	            android:defaultValue=""
+	        />    
+
+  <ListPreference
+	            android:key="lang"
+	            android:title="Język"
+	            android:summary=""
+	            android:defaultValue="auto"
+	            android:entries="@array/language"
+	            android:entryValues="@array/languageValues"
+	        />    
+    </PreferenceCategory>
+
+</PreferenceScreen>

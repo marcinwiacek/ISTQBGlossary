@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+   <PreferenceCategory android:title="Info">
+	<Preference
+                android:title="Donate author"
+                android:summary="Click to open PayPal/Bitcoin donation and contact WWW page."
+                android:key="Czyszczenie" />
+	<Preference
+                android:title="Send report"
+                android:summary="Click to open mail program with author's address and current data."
+                android:key="Czyszczenie2" />
+    </PreferenceCategory>
+  
+   <PreferenceCategory android:title="Settings">
+  <ListPreference
+	            android:key="up"
+	            android:title="Top content"
+	            android:summary=""
+	            android:defaultValue="24us.txt"
+	            android:entries="@array/up"
+	            android:entryValues="@array/upValues"
+	        />    
+  <ListPreference
+	            android:key="down"
+	            android:title="Bottom content"
+	            android:summary=""
+	            android:defaultValue="none.txt"
+	            android:entries="@array/down"
+	            android:entryValues="@array/downValues"
+	        />    
+        <CheckBoxPreference
+                android:key="SyncMode"
+                android:title="Synchronize"
+                android:defaultValue="false"
+                android:summary="All functions (Back/Jump/Search) work on the bottom part too" android:enabled="true" />
+        <CheckBoxPreference
+                android:key="DiffMode"
+                android:title="Differences mode"
+                android:defaultValue="false"
+                android:summary="Show differences instead of full dictionaries" android:enabled="true" />
+        <CheckBoxPreference
+                android:key="No_Lock"
+                android:title="Keyguard disabled"
+                android:defaultValue="false"
+                android:summary="Don't allow for keyboard locking" android:enabled="true" />
+        <CheckBoxPreference
+                android:key="Obrot"
+                android:title="Landscape orientation available"
+                android:defaultValue="false"
+                android:summary="Allow screen rotation" android:enabled="true" />
+
+        <CheckBoxPreference
+                android:key="OwnTextSize"
+                android:title="Non standard text size"
+                android:defaultValue="false"
+                android:summary="Use non standard text size" android:enabled="true" />
+                
+<EditTextPreference
+    android:defaultValue="22"
+    android:dialogTitle="Enter text size"
+    android:inputType="number"
+    android:key="TextSize"
+    android:summary=""
+    android:title="User text size" />
+
+	  <ListPreference
+	            android:key="wyglad"
+	            android:title="Theme"
+	            android:summary=""
+	            android:defaultValue=""
+	        />    
+	        
+  <ListPreference
+	            android:key="lang"
+	            android:title="Language"
+	            android:summary=""
+	            android:defaultValue="auto"
+	            android:entries="@array/language"
+	            android:entryValues="@array/languageValues"
+	        />    
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

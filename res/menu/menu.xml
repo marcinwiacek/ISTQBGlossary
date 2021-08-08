@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sett"
+
+          android:title="Options" />
+    <item android:id="@+id/info"
+
+          android:title="Keywords info" />
+    <item android:id="@+id/exit"
+
+          android:title="Exit" />
+</menu>

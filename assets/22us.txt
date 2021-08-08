@@ -1,0 +1,793 @@
+<b>abstract test case</b>: See <i>high level test case</i>. 
+<b>acceptance</b>: See <i>acceptance testing</i>. 
+<b>acceptance criteria</b>: The exit criteria that a component or system must satisfy in order to be accepted by a user, customer, or other authorized entity. [IEEE 610] 
+<b>acceptance testing</b>: Formal testing with respect to user needs, requirements, and business processes conducted to determine whether or not a system satisfies the acceptance criteria and to enable the user, customers or other authorized entity to determine whether or not to accept the system. [After IEEE 610] 
+ATA <b>accessibility testing</b>: Testing to determine the ease by which users with disabilities can use a component or system. [Gerrard] 
+<b>accuracy</b>: The capability of the software product to provide the right or agreed results or effects with the needed degree of precision. [ISO 9126] See also <i>functionality</i>. 
+ATA <b>accuracy testing</b>: The process of testing to determine the accuracy of a software product 
+EITP <b>acting (IDEAL)</b>: The phase within the IDEAL model where the improvements are developed, put into practice, and deployed across the organization. The acting phase consists of the activities: create solution, pilot/test solution, refine solution and implement solution. See also <i>IDEAL</i>. 
+<b>action word driven testing</b>: See <i>keyword-driven testing</i> 
+<b>actor</b>: User or any other person or system that interacts with the system under test in a specific way. 
+<b>actual outcome</b>: See <i>actual result</i>. 
+<b>actual result</b>: The behavior produced/observed when a component or system is tested. 
+<b>ad hoc review</b>: See <i>informal review</i>. 
+<b>ad hoc testing</b>: Testing carried out informally; no formal test preparation takes place, no recognized test design technique is used, there are no expectations for results and arbitrariness guides the test execution activity. 
+ATT <b>adaptability</b>: The capability of the software product to be adapted for different specified environments without applying actions or means other than those provided for this purpose for the software considered. [ISO 9126] See also <i>portability</i>. 
+<b>agile manifesto</b>: A statement on the values that underpin agile software development. The values are: <br>-individuals and interactions over processes and tools <br>-working software over comprehensive documentation <br>-customer collaboration over contract negotiation <br>-responding to change over following a plan. 
+EITP <b>agile software development</b>: A group of software development methodologies based on iterative incremental development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. 
+EITP <b>agile testing</b>: Testing practice for a project using agile software development methodologies, incorporating techniques and methods, such as extreme programming (XP), treating development as the customer of testing and emphasizing the test-first design paradigm. See also <i>test driven development</i>. 
+<b>algorithm test</b>: [TMap] See <i>branch testing</i>. 
+F <b>alpha testing</b>: Simulated or actual operational testing by potential users/customers or an independent test team at the developers' site, but outside the development organization. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing. 
+ETM <b>analytical testing</b>: Testing based on a systematic analysis of e.g., product risks or requirements. 
+ATT <b>analyzability</b>: The capability of the software product to be diagnosed for deficiencies or causes of failures in the software, or for the parts to be modified to be identified. [ISO 9126] See also <i>maintainability</i>. 
+<b>analyzer</b>: See <i>static analyzer</i>. 
+ATM <b>anomaly</b>: Any condition that deviates from expectation based on requirements specifications, design documents, user documents, standards, etc. or from someone's perception or experience. Anomalies may be found during, but not limited to, reviewing, testing, analysis, compilation, or use of software products or applicable documentation. [IEEE 1044] See also <i>bug</i>, <i>defect</i>, <i>deviation</i>, <i>error</i>, <i>fault</i>, <i>failure</i>, <i>incident</i>, <i>problem</i>. 
+ATT <b>anti-pattern</b>: Repeated action, process, structure or reusable solution that initially appears to be beneficial and is commonly used but is ineffective and/or counterproductive in practice. 
+<b>API (Application Programming Interface) testing</b>: Testing the code which enables communication between different processes, programs and/or systems. API testing often involves negative testing, e.g., to validate the robustness of error handling. See also <i>interface testing</i>. 
+<b>arc testing</b>: See <i>branch testing</i>. 
+EITP <b>assessment report</b>: A document summarizing the assessment results, e.g. conclusions, recommendations and findings. See also <i>process assessment</i>. 
+EITP <b>assessor</b>: A person who conducts an assessment; any member of an assessment team. 
+ATT <b>atomic condition</b>: A condition that cannot be decomposed, i.e., a condition that does not contain two or more single conditions joined by a logical operator (AND, OR, XOR). 
+F <b>attack</b>: Directed and focused attempt to evaluate the quality, especially reliability, of a test object by attempting to force specific failures to occur. See also <i>negative testing</i>. 
+<b>attack-based testing</b>: An experience-based testing technique that uses software attacks to induce failures, particularly security related failures. See also <i>attack</i>. 
+ATA <b>attractiveness</b>: The capability of the software product to be attractive to the user. [ISO 9126] See also <i>usability</i>. 
+ATM <b>audit</b>: An independent evaluation of software products or processes to ascertain compliance to standards, guidelines, specifications, and/or procedures based on objective criteria, including documents that specify: <br>(1) the form or content of the products to be produced <br>(2) the process by which the products shall be produced <br>(3) how compliance to standards or guidelines shall be measured. [IEEE 1028] 
+<b>audit trail</b>: A path by which the original input to a process (e.g. data) can be traced back through the process, taking the process output as a starting point. This facilitates defect analysis and allows a process audit to be carried out. [After TMap] 
+<b>automated testware</b>: Testware used in automated testing, such as tool scripts. 
+<b>availability</b>: The degree to which a component or system is operational and accessible when required for use. Often expressed as a percentage. [IEEE 610] 
+<b>back-to-back testing</b>: Testing in which two or more variants of a component or system are executed with the same inputs, the outputs compared, and analyzed in cases of discrepancies. [IEEE 610] 
+EITP <b>balanced scorecard</b>: A strategic tool for measuring whether the operational activities of a company are aligned with its objectives in terms of business vision and strategy. See also <i>corporate dashboard</i>, <i>scorecard</i>. 
+<b>baseline</b>: A specification or software product that has been formally reviewed or agreed upon, that thereafter serves as the basis for further development, and that can be changed only through a formal change control process. [After IEEE 610] 
+<b>basic block</b>: A sequence of one or more consecutive executable statements containing no branches. Note: A node in a control flow graph represents a basic block. 
+<b>basis test set</b>: A set of test cases derived from the internal structure of a component or specification to ensure that 100% of a specified coverage criterion will be achieved. 
+<b>bebugging</b>: [Abbott] See <i>fault seeding</i>. 
+<b>behavior</b>: The response of a component or system to a set of input values and preconditions. 
+<b>benchmark test</b>: (1) A standard against which measurements or comparisons can be made. <br>(2) A test that is be used to compare components or systems to each other or to a standard as in (1). [After IEEE 610] 
+<b>bespoke software</b>: Software developed specifically for a set of users or customers. The opposite is off-the-shelf software. 
+<b>best practice</b>: A superior method or innovative practice that contributes to the improved performance of an organization under given context, usually recognized as 'best' by other peer organizations. 
+F <b>beta testing</b>: Operational testing by potential and/or existing users/customers at an external site not otherwise involved with the developers, to determine whether or not a component or system satisfies the user/customer needs and fits within the business processes. Beta testing is often employed as a form of external acceptance testing for off-the-shelf software in order to acquire feedback from the market. 
+<b>big-bang testing</b>: An integration testing approach in which software elements, hardware elements, or both are combined all at once into a component or an overall system, rather than in stages. [After IEEE 610] See also <i>integration testing</i>. 
+<b>black box technique</b>: See <i>black box test design technique</i>. 
+F ATA <b>black box test design technique</b>: Procedure to derive and/or select test cases based on an analysis of the specification, either functional or non-functional, of a component or system without reference to its internal structure. 
+F <b>black box testing</b>: Testing, either functional or non-functional, without reference to the internal structure of the component or system. 
+<b>blocked test case</b>: A test case that cannot be executed because the preconditions for its execution are not fulfilled. 
+<b>bottom-up testing</b>: An incremental approach to integration testing where the lowest level components are tested first, and then used to facilitate the testing of higher level components. This process is repeated until the component at the top of the hierarchy is tested. See also <i>integration testing</i>. 
+<b>boundary value</b>: An input value or output value which is on the edge of an equivalence partition or at the smallest incremental distance on either side of an edge, for example the minimum or maximum value of a range. 
+F ATA <b>boundary value analysis</b>: A black box test design technique in which test cases are designed based on boundary values. See also <i>boundary value</i>. 
+<b>boundary value coverage</b>: The percentage of boundary values that have been exercised by a test suite. 
+<b>boundary value testing</b>: See <i>boundary value analysis</i>. 
+<b>branch</b>: A basic block that can be selected for execution based on a program construct in which one of two or more alternative program paths is available, e.g. case, jump, go to, if-then-else. 
+<b>branch condition</b>: See <i>condition</i>. 
+<b>branch condition combination coverage</b>: See <i>multiple condition coverage</i>. 
+<b>branch condition combination testing</b>: See <i>multiple condition testing</i>. 
+<b>branch condition coverage</b>: See <i>condition coverage</i>. 
+<b>branch coverage</b>: The percentage of branches that have been exercised by a test suite. 100% branch coverage implies both 100% decision coverage and 100% statement coverage. 
+<b>branch testing</b>: A white box test design technique in which test cases are designed to execute branches. 
+<b>buffer</b>: A device or storage area used to store data temporarily for differences in rates of data flow, time or occurrence of events, or amounts of data that can be handled by the devices or processes involved in the transfer or use of the data. [IEEE 610] 
+<b>buffer overflow</b>: A memory access failure due to the attempt by a process to store data beyond the boundaries of a fixed length buffer, resulting in overwriting of adjacent memory areas or the raising of an overflow exception. See also <i>buffer</i>. 
+F <b>bug</b>: See <i>defect</i>. 
+<b>bug report</b>: See <i>defect report</i>. 
+<b>bug taxonomy</b>: See <i>defect taxonomy</i>. 
+<b>bug tracking tool</b>: See <i>defect management tool</i>. 
+<b>business process-based testing</b>: An approach to testing in which test cases are designed based on descriptions and/or knowledge of business processes. 
+<b>call graph</b>: An abstract representation of calling relationships between subroutines in a program. 
+ATM EITP <b>Capability Maturity Model Integration</b>: A framework that describes the key elements of an effective product development and maintenance process. The Capability Maturity Model Integration covers best-practices for planning, engineering and managing product development and maintenance. [CMMI] 
+ATT <b>capture/playback tool</b>: A type of test execution tool where inputs are recorded during manual testing in order to generate automated test scripts that can be executed later (i.e. replayed). These tools are often used to support automated regression testing. 
+<b>capture/replay tool</b>: See <i>capture/playback tool</i>. 
+<b>CASE</b>: Acronym for Computer Aided Software Engineering. 
+<b>CAST</b>: Acronym for Computer Aided Software Testing. See also <i>test automation</i>. 
+EITP <b>causal analysis</b>: The analysis of defects to determine their root cause. [CMMI] 
+<b>cause-effect analysis</b>: See <i>cause-effect graphing</i>. 
+<b>cause-effect decision table</b>: See <i>decision table</i>. 
+EITP <b>cause-effect diagram</b>: A graphical representation used to organize and display the interrelationships of various possible root causes of a problem. Possible causes of a real or potential defect or failure are organized in categories and subcategories in a horizontal tree-structure, with the (potential) defect or failure as the root node. [After Juran] 
+EITP <b>cause-effect graph</b>: A graphical representation of inputs and/or stimuli (causes) with their associated outputs (effects), which can be used to design test cases. 
+ATA <b>cause-effect graphing</b>: A black box test design technique in which test cases are designed from cause-effect graphs. [BS 7925/2] 
+<b>certification</b>: The process of confirming that a component, system or person complies with its specified requirements, e.g. by passing an exam. 
+<b>change control</b>: See <i>configuration control</i>. 
+<b>change control board</b>: See <i>configuration control board</i>. 
+EITP <b>change management</b>: (1) A structured approach to transitioning individuals, and organizations from a current state to a desired future state. (2) Controlled way to effect a change, or a proposed change, to a product or service. See also <i>configuration management</i>. 
+ATT <b>changeability</b>: The capability of the software product to enable specified modifications to be implemented. [ISO 9126] See also <i>maintainability</i>. 
+<b>charter</b>: See <i>test charter</i>. 
+<b>checker</b>: See <i>reviewer</i>. 
+ATA <b>checklist-based testing</b>: An experience-based test design technique whereby the experienced tester uses a high-level list of items to be noted, checked, or remembered, or a set of rules or criteria against which a product has to be verified. 
+<b>Chow's coverage metrics</b>: See <i>N-switch coverage</i>. [Chow] 
+<b>classification tree</b>: A tree showing equivalence partitions hierarchically ordered, which is used to design test cases in the classification tree method. See also <i>classification tree method</i>. 
+ATA <b>classification tree method</b>: A black box test design technique in which test cases, described by means of a classification tree, are designed to execute combinations of representatives of input and/or output domains. [Grochtmann] 
+<b>clear-box testing</b>: See <i>white-box testing</i>. 
+ATM EITP <b>CMMI</b>: See <i>Capability Maturity Model Integration</i>. 
+<b>code</b>: Computer instructions and data definitions expressed in a programming language or in a form output by an assembler, compiler or other translator. [IEEE 610] 
+<b>code analyzer</b>: See <i>static code analyzer</i>. 
+F <b>code coverage</b>: An analysis method that determines which parts of the software have been executed (covered) by the test suite and which parts have not been executed, e.g. statement coverage, decision coverage or condition coverage. 
+<b>code-based testing</b>: See <i>white box testing</i>. 
+EITP <b>codependent behavior</b>: Excessive emotional or psychological dependence on another person, specifically in trying to change that person's current (undesirable) behavior while supporting them in continuing that behavior. For example, in software testing, complaining about late delivery to test and yet enjoying the necessary "heroism" working additional hours to make up time when delivery is running late, therefore reinforcing the lateness. 
+ATT <b>co-existence</b>: The capability of the software product to co-exist with other independent software in a common environment sharing common resources. [ISO 9126] See also <i>portability</i>. 
+ATA <b>combinatorial testing</b>: A means to identify a suitable subset of test combinations to achieve a predetermined level of coverage when testing an object with multiple parameters and where those parameters themselves each have several values, which gives rise to more combinations than are feasible to test in the time allowed. See also <i>classification tree method</i>, <i>pairwise testing</i>, <i>orthogonal array testing</i>. 
+F <b>Commercial Off-The-Shelf software</b>: See <i>off-the-shelf software</i>. 
+<b>comparator</b>: See <i>test comparator</i>. 
+<b>compatibility testing</b>: See <i>interoperability testing</i>. 
+F <b>compiler</b>: A software tool that translates programs expressed in a high order language into their machine language equivalents. [IEEE 610] 
+<b>complete testing</b>: See <i>exhaustive testing</i>. 
+<b>completion criteria</b>: See <i>exit criteria</i>. 
+F <b>complexity</b>: The degree to which a component or system has a design and/or internal structure that is difficult to understand, maintain and verify. See also <i>cyclomatic complexity</i>. 
+<b>compliance</b>: The capability of the software product to adhere to standards, conventions or regulations in laws and similar prescriptions. [ISO 9126] 
+<b>compliance testing</b>: The process of testing to determine the compliance of the component or system. 
+<b>component</b>: A minimal software item that can be tested in isolation. 
+<b>component integration testing</b>: Testing performed to expose defects in the interfaces and interaction between integrated components. 
+<b>component specification</b>: A description of a component's function in terms of its output values for specified input values under specified conditions, and required non-functional behavior (e.g. resource-utilization). 
+F <b>component testing</b>: The testing of individual software components. [After IEEE 610] 
+<b>compound condition</b>: Two or more single conditions joined by means of a logical operator (AND, OR or XOR), e.g. 'A>B AND C>1000'. 
+ATA <b>concrete test case</b>: See <i>low level test case</i>. 
+<b>concurrency testing</b>: Testing to determine how the occurrence of two or more activities within the same interval of time, achieved either by interleaving the activities or by simultaneous execution, is handled by the component or system. [After IEEE 610] 
+<b>condition</b>: A logical expression that can be evaluated as True or False, e.g. A>B. See also <i>condition testing</i>. 
+<b>condition combination coverage</b>: See <i>multiple condition coverage</i>. 
+<b>condition combination testing</b>: See <i>multiple condition testing</i>. 
+<b>condition coverage</b>: The percentage of condition outcomes that have been exercised by a test suite. 100% condition coverage requires each single condition in every decision statement to be tested as True and False. 
+<b>condition determination coverage</b>: See <i>modified condition decision coverage</i>. 
+<b>condition determination testing</b>: See <i>modified condition decision testing</i>. 
+<b>condition outcome</b>: The evaluation of a condition to True or False. 
+ATT <b>condition testing</b>: A white box test design technique in which test cases are designed to execute condition outcomes. 
+ETM <b>confidence interval</b>: In managing project risks, the period of time within which a contingency action must be implemented in order to be effective in reducing the impact of the risk. 
+<b>confidence test</b>: See <i>smoke test</i>. 
+<b>configuration</b>: The composition of a component or system as defined by the number, nature, and interconnections of its constituent parts. 
+<b>configuration auditing</b>: The function to check on the contents of libraries of configuration items, e.g. for standards compliance. [IEEE 610] 
+<b>configuration control</b>: An element of configuration management, consisting of the evaluation, co-ordination, approval or disapproval, and implementation of changes to configuration items after formal establishment of their configuration identification. [IEEE 610] 
+<b>configuration control board (CCB)</b>: A group of people responsible for evaluating and approving or disapproving proposed changes to configuration items, and for ensuring implementation of approved changes. [IEEE 610] 
+<b>configuration identification</b>: An element of configuration management, consisting of selecting the configuration items for a system and recording their functional and physical characteristics in technical documentation. [IEEE 610] 
+<b>configuration item</b>: An aggregation of hardware, software or both, that is designated for configuration management and treated as a single entity in the configuration management process. [IEEE 610] 
+F <b>configuration management</b>: A discipline applying technical and administrative direction and surveillance to: identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements. [IEEE 610] 
+F <b>configuration management tool</b>: A tool that provides support for the identification and control of configuration items, their status over changes and versions, and the release of baselines consisting of configuration items. 
+<b>configuration testing</b>: See <i>portability testing</i>. 
+F <b>confirmation testing</b>: See <i>re-testing</i>. 
+<b>conformance testing</b>: See <i>compliance testing</i>. 
+<b>consistency</b>: The degree of uniformity, standardization, and freedom from contradiction among the documents or parts of a component or system. [IEEE 610] 
+ETM <b>consultative testing</b>: Testing driven by the advice and guidance of appropriate experts from outside the test team (e.g., technology experts and/or business domain experts). 
+EITP <b>content-based model</b>: A process model providing a detailed description of good engineering practices, e.g. test practices. 
+EITP <b>continuous representation</b>: A capability maturity model structure wherein capability levels provide a recommended order for approaching process improvement within specified process areas. [CMMI] 
+ETM <b>control chart</b>: A statistical process control tool used to monitor a process and determine whether it is statistically controlled. It graphically depicts the average value and the upper and lower control limits (the highest and lowest values) of a process. 
+F <b>control flow</b>: A sequence of events (paths) in the execution through a component or system. 
+ATT <b>control flow analysis</b>: A form of static analysis based on a representation of unique paths (sequences of events) in the execution through a component or system. Control flow analysis evaluates the integrity of control flow structures, looking for possible control flow anomalies such as closed loops or logically unreachable process steps. 
+<b>control flow graph</b>: An abstract representation of all possible sequences of events (paths) in the execution through a component or system. 
+<b>control flow path</b>: See <i>path</i>. 
+ATT <b>control flow testing</b>: An approach to structure-based testing in which test cases are designed to execute specific sequences of events. Various techniques exist for control flow testing, e.g., decision testing, condition testing, and path testing, that each have their specific approach and level of control flow coverage. See also <i>decision testing</i>, <i>condition testing</i>, <i>path testing</i>. 
+ETM <b>convergence metric</b>: A metric that shows progress toward a defined criterion, e.g., convergence of the total number of test executed to the total number of tests planned for execution. 
+<b>conversion testing</b>: Testing of software used to convert data from existing systems for use in replacement systems. 
+EITP <b>corporate dashboard</b>: A dashboard-style representation of the status of corporate performance data. See also <i>balanced scorecard</i>, <i>dashboard</i>. 
+<b>cost of quality</b>: The total costs incurred on quality activities and issues and often split into prevention costs, appraisal costs, internal failure costs and external failure costs. 
+F <b>COTS</b>: Acronym for Commercial Off-The-Shelf software. See <i>off-the-shelf software</i>. 
+<b>coverage</b>: The degree, expressed as a percentage, to which a specified coverage item has been exercised by a test suite. 
+<b>coverage analysis</b>: Measurement of achieved coverage to a specified coverage item during test execution referring to predetermined criteria to determine whether additional testing is required and if so, which test cases are needed. 
+<b>coverage item</b>: An entity or property used as a basis for test coverage, e.g. equivalence partitions or code statements. 
+<b>coverage measurement tool</b>: See <i>coverage tool</i>. 
+F <b>coverage tool</b>: A tool that provides objective measures of what structural elements, e.g. statements, branches have been exercised by a test suite. 
+EITP <b>critical success factor</b>: An element necessary for an organization or project to achieve its mission. Critical success factors are the critical factors or activities required for ensuring the success. 
+ATM EITP <b>Critical Testing Processes</b>: A content-based model for test process improvement built around twelve critical processes. These include highly visible processes, by which peers and management judge competence and mission-critical processes in which performance affects the company's profits and reputation. See also <i>content-based model</i>. 
+ATM EITP <b>CTP</b>: See <i>Critical Testing Processes</i>. 
+<b>custom software</b>: See <i>bespoke software</i>. 
+ATM <b>custom tool</b>: A software tool developed specifically for a set of users or customers. 
+ATT <b>cyclomatic complexity</b>: The maximum number of linear, independent paths through a program. Cyclomatic complexity may be computed as: L - N + 2P, where <br>-L = the number of edges/links in a graph <br>-N = the number of nodes in a graph <br>-P = the number of disconnected parts of the graph (e.g. a called graph or subroutine) [After McCabe] 
+<b>cyclomatic number</b>: See <i>cyclomatic complexity</i>. 
+<b>daily build</b>: A development activity whereby a complete system is compiled and linked every day (often overnight), so that a consistent system is available at any time including all latest changes. 
+ETM <b>dashboard</b>: A representation of dynamic measurements of operational performance for some organization or activity, using metrics represented via metaphores such as visual 'dials', 'counters', and other devices resembling those on the dashboard of an automobile, so that the effects of events or activities can be easily understood and related to operational goals. See also <i>corporate dashboard</i>, <i>scorecard</i>. 
+<b>data definition</b>: An executable statement where a variable is assigned a value. 
+F ATT <b>data-driven testing</b>: A scripting technique that stores test input and expected results in a table or spreadsheet, so that a single control script can execute all of the tests in the table. Data-driven testing is often used to support the application of test execution tools such as capture/playback tools. [Fewster and Graham] See also <i>keyword-driven testing</i>. 
+F <b>data flow</b>: An abstract representation of the sequence and possible changes of the state of data objects, where the state of an object is any of: creation, usage, or destruction. [Beizer] 
+ATT <b>data flow analysis</b>: A form of static analysis based on the definition and usage of variables. 
+<b>data flow coverage</b>: The percentage of definition-use pairs that have been exercised by a test suite. 
+<b>data flow testing</b>: A white box test design technique in which test cases are designed to execute definition-use pairs of variables. 
+<b>data integrity testing</b>: See <i>database integrity testing</i>. 
+<b>data quality</b>: An attribute of data that indicates correctness with respect to some pre-defined criteria, e.g., business expectations, requirements on data integrity, data consistency. 
+<b>database integrity testing</b>: Testing the methods and processes used to access and manage the data(base), to ensure access methods, processes and data rules function as expected and that during access to the database, data is not corrupted or unexpectedly deleted, updated or created. 
+<b>dd-path</b>: A path between two decisions of an algorithm, or two decision nodes of a corresponding graph, that includes no other decisions. See also <i>path</i>. 
+<b>dead code</b>: See <i>unreachable code</i>. 
+<b>debugger</b>: See <i>debugging tool</i>. 
+F <b>debugging</b>: The process of finding, analyzing and removing the causes of failures in software. 
+F ATT <b>debugging tool</b>: A tool used by programmers to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables. 
+<b>decision</b>: A program point at which the control flow has two or more alternative routes. A node with two or more links to separate branches. 
+<b>decision condition coverage</b>: The percentage of all condition outcomes and decision outcomes that have been exercised by a test suite. 100% decision condition coverage implies both 100% condition coverage and 100% decision coverage. 
+ATT <b>decision condition testing</b>: A white box test design technique in which test cases are designed to execute condition outcomes and decision outcomes. 
+F <b>decision coverage</b>: The percentage of decision outcomes that have been exercised by a test suite. 100% decision coverage implies both 100% branch coverage and 100% statement coverage. 
+<b>decision outcome</b>: The result of a decision (which therefore determines the branches to be taken). 
+<b>decision table</b>: A table showing combinations of inputs and/or stimuli (causes) with their associated outputs and/or actions (effects), which can be used to design test cases. 
+F ATA <b>decision table testing</b>: A black box test design technique in which test cases are designed to execute the combinations of inputs and/or stimuli (causes) shown in a decision table. [Veenendaal04] See also <i>decision table</i>. 
+<b>decision testing</b>: A white box test design technique in which test cases are designed to execute decision outcomes. 
+F ATM <b>defect</b>: A flaw in a component or system that can cause the component or system to fail to perform its required function, e.g. an incorrect statement or data definition. A defect, if encountered during execution, may cause a failure of the component or system. 
+ATA <b>defect-based technique</b>: See <i>defect-based test design technique</i>. 
+ATA <b>defect-based test design technique</b>: A procedure to derive and/or select test cases targeted at one or more defect categories, with tests being developed from what is known about the specific defect category. See also <i>defect taxonomy</i>. 
+<b>defect category</b>: See <i>defect type</i>. 
+F <b>defect density</b>: The number of defects identified in a component or system divided by the size of the component or system (expressed in standard measurement terms, e.g. lines-ofcode, number of classes or function points). 
+EITP <b>Defect Detection Percentage (DDP)</b>: The number of defects found by a test phase, divided by the number found by that test phase and any other means afterwards. 
+<b>defect management</b>: The process of recognizing, investigating, taking action and disposing of defects. It involves recording defects, classifying them and identifying the impact. [After IEEE 1044] 
+ATM <b>defect management committee</b>: A cross-functional team of stakeholders who manage reported defects from initial detection to ultimate resolution (defect removal, defect deferral, or report cancellation). In some cases, the same team as the configuration control board. See also <i>configuration control board</i>. 
+<b>defect management tool</b>: A tool that facilitates the recording and status tracking of defects and changes. They often have workflow-oriented facilities to track and control the allocation, correction and re-testing of defects and provide reporting facilities. See also <i>incident management tool</i>. 
+<b>defect masking</b>: An occurrence in which one defect prevents the detection of another. [After IEEE 610] 
+<b>defect report</b>: A document reporting on any flaw in a component or system that can cause the component or system to fail to perform its required function. [After IEEE 829] 
+ATA <b>defect taxonomy</b>: A system of (hierarchical) categories designed to be a useful aid for reproducibly classifying defects. 
+<b>defect tracking tool</b>: See <i>defect management tool</i>. 
+ATM <b>defect triage committee</b>: See <i>defect management committee</i>. 
+<b>defect type</b>: An element in a taxonomy of defects. Defect taxonomies can be identified with respect to a variety of considerations, including, but not limited to: <p>Phase or development activity in which the defect is created, e.g., a specification error or a coding error <p>Characterization of defects, e.g., an "off-by-one" defect <p>Incorrectness, e.g., an incorrect relational operator, a programming language syntax error, or an invalid assumption <p>Performance issues, e.g., excessive execution time, insufficient availability. 
+ATT <b>definition-use pair</b>: The association of a definition of a variable with the subsequent use of that variable. Variable uses include computational (e.g. multiplication) or to direct the execution of a path ("predicate" use). 
+<b>deliverable</b>: Any (work) product that must be delivered to someone other than the (work) product's author. 
+EITP <b>Deming cycle</b>: An iterative four-step problem-solving process, (plan-do-check-act), typically used in process improvement. [After Deming] 
+<b>design-based testing</b>: An approach to testing in which test cases are designed based on the architecture and/or detailed design of a component or system (e.g. tests of interfaces between components or systems). 
+<b>desk checking</b>: Testing of software or a specification by manual simulation of its execution. See also <i>static testing</i>. 
+<b>development testing</b>: Formal or informal testing conducted during the implementation of a component or system, usually in the development environment by developers. [After IEEE 610] 
+<b>deviation</b>: See <i>incident</i>. 
+<b>deviation report</b>: See <i>incident report</i>. 
+EITP <b>diagnosing (IDEAL)</b>: The phase within the IDEAL model where it is determined where one is, relative to where one wants to be. The diagnosing phase consists of the activities: characterize current and desired states and develop recommendations. See also <i>IDEAL</i>. 
+<b>dirty testing</b>: See <i>negative testing</i>. 
+<b>documentation testing</b>: Testing the quality of the documentation, e.g. user guide or installation guide. 
+<b>domain</b>: The set from which valid input and/or output values can be selected. 
+ATA <b>domain analysis</b>: A black box test design technique that is used to identify efficient and effective test cases when multiple variables can or should be tested together. It builds on and generalizes equivalence partitioning and boundary values analysis. See also <i>boundary value analysis</i>, <i>equivalence partitioning</i>. 
+F <b>driver</b>: A software component or test tool that replaces a component that takes care of the control and/or the calling of a component or system. [After TMap] 
+ATT <b>dynamic analysis</b>: The process of evaluating behavior, e.g. memory performance, CPU usage, of a system or component during execution. [After IEEE 610] 
+F <b>dynamic analysis tool</b>: A tool that provides run-time information on the state of the software code. These tools are most commonly used to identify unassigned pointers, check pointer arithmetic and to monitor the allocation, use and de-allocation of memory and to flag memory leaks. 
+<b>dynamic comparison</b>: Comparison of actual and expected results, performed while the software is being executed, for example by a test execution tool. 
+F <b>dynamic testing</b>: Testing that involves the execution of the software of a component or system. 
+ATM <b>effectiveness</b>: The capability of producing an intended result. See also <i>efficiency</i>. 
+ATM ATT <b>efficiency</b>: (1) The capability of the software product to provide appropriate performance, relative to the amount of resources used under stated conditions. [ISO 9126] <br>(2) The capability of a process to produce the intended outcome, relative to the amount of resources used 
+<b>efficiency testing</b>: The process of testing to determine the efficiency of a software product. 
+EITP <b>EFQM (European Foundation for Quality Management) excellence model</b>: A non-prescriptive framework for an organisation's quality management system, defined and owned by the European Foundation for Quality Management, based on five 'Enabling' criteria (covering what an organisation does), and four 'Results' criteria (covering what an organisation achieves). 
+<b>elementary comparison testing</b>: A black box test design technique in which test cases are designed to execute combinations of inputs using the concept of modified condition decision coverage. [TMap] 
+<b>embedded iterative development model</b>: A development lifecycle sub-model that applies an iterative approach to detailed design, coding and testing within an overall sequential model. In this case, the high level design documents are prepared and approved for the entire project but the actual detailed design, code development and testing are conducted in iterations. 
+EITP <b>emotional intelligence</b>: The ability, capacity, and skill to identify, assess, and manage the emotions of one's self, of others, and of groups. 
+<b>emulator</b>: A device, computer program, or system that accepts the same inputs and produces the same outputs as a given system. [IEEE 610] See also <i>simulator</i>. 
+F <b>entry criteria</b>: The set of generic and specific conditions for permitting a process to go forward with a defined task, e.g. test phase. The purpose of entry criteria is to prevent a task from starting which would entail more (wasted) effort compared to the effort needed to remove the failed entry criteria. [Gilb and Graham] 
+<b>entry point</b>: An executable statement or process step which defines a point at which a given process is intended to begin. 
+<b>equivalence class</b>: See <i>equivalence partition</i>. 
+<b>equivalence partition</b>: A portion of an input or output domain for which the behavior of a component or system is assumed to be the same, based on the specification. 
+<b>equivalence partition coverage</b>: The percentage of equivalence partitions that have been exercised by a test suite. 
+F ATA <b>equivalence partitioning</b>: A black box test design technique in which test cases are designed to execute representatives from equivalence partitions. In principle test cases are designed to cover each partition at least once. 
+F <b>error</b>: A human action that produces an incorrect result. [After IEEE 610] 
+F ATA <b>error guessing</b>: A test design technique where the experience of the tester is used to anticipate what defects might be present in the component or system under test as a result of errors made, and to design tests specifically to expose them. 
+<b>error seeding</b>: See <i>fault seeding</i>. 
+<b>error seeding tool</b>: See <i>fault seeding tool</i>. 
+<b>error tolerance</b>: The ability of a system or component to continue normal operation despite the presence of erroneous inputs. [After IEEE 610]. 
+EITP <b>establishing (IDEAL)</b>: The phase within the IDEAL model where the specifics of how an organization will reach its destination are planned. The establishing phase consists of the activities: set priorities, develop approach and plan actions. See also <i>IDEAL</i>. 
+<b>evaluation</b>: See <i>testing</i>. 
+<b>exception handling</b>: Behavior of a component or system in response to erroneous input, from either a human user or from another component or system, or to an internal failure. 
+<b>executable statement</b>: A statement which, when compiled, is translated into object code, and which will be executed procedurally when the program is running and may perform an action on data. 
+<b>exercised</b>: A program element is said to be exercised by a test case when the input value causes the execution of that element, such as a statement, decision, or other structural element. 
+F <b>exhaustive testing</b>: A test approach in which the test suite comprises all combinations of input values and preconditions. 
+F ATM ATA <b>exit criteria</b>: The set of generic and specific conditions, agreed upon with the stakeholders for permitting a process to be officially completed. The purpose of exit criteria is to prevent a task from being considered completed when there are still outstanding parts of the task which have not been finished. Exit criteria are used to report against and to plan when to stop testing. [After Gilb and Graham] 
+<b>exit point</b>: An executable statement or process step which defines a point at which a given process is intended to cease.. 
+<b>expected outcome</b>: See <i>expected result</i>. 
+<b>expected result</b>: The behavior predicted by the specification, or another source, of the component or system under specified conditions. 
+ATA <b>experience-based technique</b>: See <i>experience-based test design technique</i>. 
+F ATA <b>experience-based test design technique</b>: Procedure to derive and/or select test cases based on the tester's experience, knowledge and intuition. 
+<b>experience-based testing</b>: Testing based on the tester's experience, knowledge and intuition. 
+F ATA <b>exploratory testing</b>: An informal test design technique where the tester actively controls the design of the tests as those tests are performed and uses information gained while testing to design new and better tests. [After Bach] 
+EITP <b>extreme programming (XP)</b>: A software engineering methodology used within agile software development whereby core practices are programming in pairs, doing extensive code review, unit testing of all code, and simplicity and clarity in code. See also <i>agile software development</i>. 
+<b>factory acceptance testing</b>: Acceptance testing conducted at the site at which the product is developed and performed by employees of the supplier organization, to determine whether or not a component or system satisfies the requirements, normally including hardware as well as software. See also <i>alfa testing</i>. 
+<b>fail</b>: A test is deemed to fail if its actual result does not match its expected result. 
+<b>failover testing</b>: Testing by simulating failure modes or actually causing failures in a controlled environment. Following a failure, the failover mechanism is tested to ensure that data is not lost or corrupted and that any agreed service levels are maintained (e.g., function availability or response times). See also <i>recoverability testing</i>. 
+F ATM <b>failure</b>: Deviation of the component or system from its expected delivery, service or result. [After Fenton] 
+<b>failure mode</b>: The physical or functional manifestation of a failure. For example, a system in failure mode may be characterized by slow operation, incorrect outputs, or complete termination of execution. [IEEE 610] 
+EITP <b>Failure Mode and Effect Analysis (FMEA)</b>: A systematic approach to risk identification and analysis of identifying possible modes of failure and attempting to prevent their occurrence. See also <i>Failure Mode, Effect and Criticality Analysis (FMECA)</i>. 
+<b>Failure Mode, Effects, and Criticality Analysis (FMECA)</b>: An extension of FMEA, as in addition to the basic FMEA, it includes a criticality analysis, which is used to chart the probability of failure modes against the severity of their consequences. The result highlights failure modes with relatively high probability and severity of consequences, allowing remedial effort to be directed where it will produce the greatest value. See also <i>Failure Mode and Effect Analysis (FMEA)</i>. 
+F <b>failure rate</b>: The ratio of the number of failures of a given category to a given unit of measure, e.g. failures per unit of time, failures per number of transactions, failures per number of computer runs. [IEEE 610] 
+ATM <b>false-fail result</b>: A test result in which a defect is reported although no such defect actually exists in the test object. 
+ATM <b>false-pass result</b>: A test result which fails to identify the presence of a defect that is actually present in the test object. 
+ATM <b>false-positive result</b>: See <i>false-fail result</i>. 
+ATM <b>false-negative result</b>: See <i>false-pass result</i>. 
+F <b>fault</b>: See <i>defect</i>. 
+F <b>fault attack</b>: See <i>attack</i>. 
+<b>fault density</b>: See <i>defect density</i>. 
+<b>Fault Detection Percentage (FDP)</b>: See <i>Defect Detection Percentage (DDP)</i>. 
+<b>fault injection</b>: The process of intentionally adding defects to a system for the purpose of finding out whether the system can detect, and possibly recover from, a defect. Fault injection intended to mimic failures that might occur in the field. See also <i>fault tolerance</i>. 
+<b>fault masking</b>: See <i>defect masking</i>. 
+<b>fault seeding</b>: The process of intentionally adding defects to those already in the component or system for the purpose of monitoring the rate of detection and removal, and estimating the number of remaining defects. Fault seeding is typically part of development (prerelease) testing and can be performed at any test level (component, integration, or system). [After IEEE 610] 
+ATT <b>fault seeding tool</b>: A tool for seeding (i.e. intentionally inserting) faults in a component or system. 
+<b>fault tolerance</b>: The capability of the software product to maintain a specified level of performance in cases of software faults (defects) or of infringement of its specified interface. [ISO 9126] See also <i>reliability</i>, <i>robustness</i>. 
+EITP <b>Fault Tree Analysis (FTA)</b>: A technique used to analyze the causes of faults (defects). The technique visually models how logical relationships between failures, human errors, and external events can combine to cause specific faults to disclose. 
+<b>feasible path</b>: A path for which a set of input values and preconditions exists which causes it to be executed. 
+<b>feature</b>: An attribute of a component or system specified or implied by requirements documentation (for example reliability, usability or design constraints). [After IEEE 1008] 
+ETM <b>feature-driven development</b>: An iterative and incremental software development process driven from a client-valued functionality (feature) perspective. Feature-driven development is mostly used in agile software development. See also <i>agile software development</i>. 
+F <b>field testing</b>: See <i>beta testing</i>. 
+<b>finite state machine</b>: A computational model consisting of a finite number of states and transitions between those states, possibly with accompanying actions. [IEEE 610] 
+<b>finite state testing</b>: See <i>state transition testing</i>. 
+<b>fishbone diagram</b>: See <i>cause-effect diagram</i>. 
+F <b>formal review</b>: A review characterized by documented procedures and requirements, e.g. inspection. 
+<b>frozen test basis</b>: A test basis document that can only be amended by a formal change control process. See also <i>baseline</i>. 
+<b>Function Point Analysis (FPA)</b>: Method aiming to measure the size of the functionality of an information system. The measurement is independent of the technology. This measurement may be used as a basis for the measurement of productivity, the estimation of the needed resources, and project control. 
+<b>functional integration</b>: An integration approach that combines the components or systems for the purpose of getting a basic functionality working early. See also <i>integration testing</i>. 
+F <b>functional requirement</b>: A requirement that specifies a function that a component or system must perform. [IEEE 610] 
+<b>functional test design technique</b>: Procedure to derive and/or select test cases based on an analysis of the specification of the functionality of a component or system without reference to its internal structure. See also <i>black box test design technique</i>. 
+F <b>functional testing</b>: Testing based on an analysis of the specification of the functionality of a component or system. See also <i>black box testing</i>. 
+<b>functionality</b>: The capability of the software product to provide functions which meet stated and implied needs when the software is used under specified conditions. [ISO 9126] 
+<b>functionality testing</b>: The process of testing to determine the functionality of a software product. 
+<b>glass box testing</b>: See <i>white box testing</i>. 
+EITP <b>Goal Question Metric</b>: An approach to software measurement using a three-level model: conceptual level (goal), operational level (question) and quantitative level (metric). 
+EITP <b>GQM</b>: See <i>Goal Question Metric</i>. 
+<b>hardware-software integration testing</b>: Testing performed to expose defects in the interfaces and interaction between hardware and software components. See also <i>integration testing</i>. 
+<b>hazard analysis</b>: A technique used to characterize the elements of risk. The result of a hazard analysis will drive the methods used for development and testing of a system. See also <i>risk analysis</i>. 
+ATA <b>heuristic evaluation</b>: A usability review technique that targets usability problems in the user interface or user interface design. With this technique, the reviewers examine the interface and judge its compliance with recognized usability principles (the "heuristics"). 
+ATA <b>high level test case</b>: A test case without concrete (implementation level) values for input data and expected results. Logical operators are used; instances of the actual values are not yet defined and/or available. See also <i>low level test case</i>. 
+<b>horizontal traceability</b>: The tracing of requirements for a test level through the layers of test documentation (e.g. test plan, test design specification, test case specification and test procedure specification or test script). 
+<b>hyperlink</b>: A pointer within a web page that leads to other web pages. 
+ATT <b>hyperlink test tool</b>: A tool used to check that no broken hyperlinks are present on a web site. 
+EITP <b>IDEAL</b>: An organizational improvement model that serves as a roadmap for initiating, planning, and implementing improvement actions. The IDEAL model is named for the five phases it describes: initiating, diagnosing, establishing, acting, and learning. 
+F <b>impact analysis</b>: The assessment of change to the layers of development documentation, test documentation and components, in order to implement a given change to specified requirements. 
+F <b>incident</b>: Any event occurring that requires investigation. [After IEEE 1008] 
+F <b>incident logging</b>: Recording the details of any incident that occurred, e.g. during testing. 
+F <b>incident management</b>: The process of recognizing, investigating, taking action and disposing of incidents. It involves logging incidents, classifying them and identifying the impact. [After IEEE 1044] 
+F <b>incident management tool</b>: A tool that facilitates the recording and status tracking of incidents. They often have workflow-oriented facilities to track and control the allocation, correction and re-testing of incidents and provide reporting facilities. See also <i>defect management tool</i>. 
+F <b>incident report</b>: A document reporting on any event that occurred, e.g. during the testing, which requires investigation. [After IEEE 829] 
+F <b>incremental development model</b>: A development lifecycle where a project is broken into a series of increments, each of which delivers a portion of the functionality in the overall project requirements. The requirements are prioritized and delivered in priority order in the appropriate increment. In some (but not all) versions of this lifecycle model, each subproject follows a 'mini V-model' with its own design, coding and testing phases. 
+<b>incremental testing</b>: Testing where components or systems are integrated and tested one or some at a time, until all the components or systems are integrated and tested. 
+F ATM <b>independence of testing</b>: Separation of responsibilities, which encourages the accomplishment of objective testing. [After DO-178b] 
+EITP <b>indicator</b>: A measure that can be used to estimate or predict another measure. [ISO 14598] 
+<b>infeasible path</b>: A path that cannot be exercised by any set of possible input values. 
+F ATM <b>informal review</b>: A review not based on a formal (documented) procedure. 
+EITP <b>initiating (IDEAL)</b>: The phase within the IDEAL model where the groundwork is laid for a successful improvement effort. The initiating phase consists of the activities: set context, build sponsorship and charter infrastructure. See also <i>IDEAL</i>. 
+<b>input</b>: A variable (whether stored within a component or outside) that is read by a component. 
+<b>input domain</b>: The set from which valid input values can be selected. See also <i>domain</i>. 
+<b>input value</b>: An instance of an input. See also <i>input</i>. 
+<b>insourced testing</b>: Testing performed by people who are co-located with the project team but are not fellow employees. 
+F ATM EITP <b>inspection</b>: A type of peer review that relies on visual examination of documents to detect defects, e.g. violations of development standards and non-conformance to higher level documentation. The most formal review technique and therefore always based on a documented procedure. [After IEEE 610, IEEE 1028] See also <i>peer review</i>. 
+<b>inspection leader</b>: See <i>moderator</i>. 
+<b>inspector</b>: See <i>reviewer</i>. 
+ATT <b>installability</b>: The capability of the software product to be installed in a specified environment [ISO 9126]. See also <i>portability</i>. 
+<b>installability testing</b>: The process of testing the installability of a software product. See also <i>portability testing</i>. 
+<b>installation guide</b>: Supplied instructions on any suitable media, which guides the installer through the installation process. This may be a manual guide, step-by-step procedure, installation wizard, or any other similar process description. 
+<b>installation wizard</b>: Supplied software on any suitable media, which leads the installer through the installation process. It normally runs the installation process, provides feedback on installation results, and prompts for options. 
+<b>instrumentation</b>: The insertion of additional code into the program in order to collect information about program behavior during execution, e.g. for measuring code coverage. 
+<b>instrumenter</b>: A software tool used to carry out instrumentation. 
+<b>intake test</b>: A special instance of a smoke test to decide if the component or system is ready for detailed and further testing. An intake test is typically carried out at the start of the test execution phase. See also <i>smoke test</i>. 
+F <b>integration</b>: The process of combining components or systems into larger assemblies. 
+F <b>integration testing</b>: Testing performed to expose defects in the interfaces and in the interactions between integrated components or systems. See also <i>component integration testing</i>, <i>system integration testing</i>. 
+<b>integration testing in the large</b>: See <i>system integration testing</i>. 
+<b>integration testing in the small</b>: See <i>component integration testing</i>. 
+<b>interface testing</b>: An integration test type that is concerned with testing the interfaces between components or systems. 
+<b>interoperability</b>: The capability of the software product to interact with one or more specified components or systems. [After ISO 9126] See also <i>functionality</i>. 
+F ATA <b>interoperability testing</b>: The process of testing to determine the interoperability of a software product. See also <i>functionality testing</i>. 
+<b>invalid testing</b>: Testing using input values that should be rejected by the component or system. See also <i>error tolerance</i>, <i>negative testing</i>. 
+ETM <b>Ishikawa diagram</b>: See <i>cause-effect diagram</i>. 
+<b>isolation testing</b>: Testing of individual components in isolation from surrounding components, with surrounding components being simulated by stubs and drivers, if needed. 
+<b>item transmittal report</b>: See <i>release note</i>. 
+F <b>iterative development model</b>: A development lifecycle where a project is broken into a usually large number of iterations. An iteration is a complete development loop resulting in a release (internal or external) of an executable product, a subset of the final product under development, which grows from iteration to iteration to become the final product. 
+<b>key performance indicator</b>: See <i>performance indicator</i>. 
+F ATA ATT <b>keyword-driven testing</b>: A scripting technique that uses data files to contain not only test data and expected results, but also keywords related to the application being tested. The keywords are interpreted by special supporting scripts that are called by the control script for the test. See also <i>data-driven testing</i>. 
+<b>LCSAJ</b>: A Linear Code Sequence And Jump, consists of the following three items (conventionally identified by line numbers in a source code listing): the start of the linear sequence of executable statements, the end of the linear sequence, and the target line to which control flow is transferred at the end of the linear sequence. 
+<b>LCSAJ coverage</b>: The percentage of LCSAJs of a component that have been exercised by a test suite. 100% LCSAJ coverage implies 100% decision coverage. 
+<b>LCSAJ testing</b>: A white box test design technique in which test cases are designed to execute LCSAJs. 
+EITP <b>lead assessor</b>: The person who leads an assessment. In some cases, for instance CMMi and TMMi when formal assessments are conducted, the lead assessor must be accredited and formally trained. 
+ATA <b>learnability</b>: The capability of the software product to enable the user to learn its application. [ISO 9126] See also <i>usability</i>. 
+EITP <b>learning (IDEAL)</b>: The phase within the IDEAL model where one learns from experiences and improves one's ability to adopt new processes and technologies in the future. The learning phase consists of the activities: analyze and validate, and propose future actions. See also <i>IDEAL</i>. 
+ATM <b>level test plan</b>: A test plan that typically addresses one test level. See also <i>test plan</i>. 
+EITP <b>lifecycle model</b>: A partitioning of the life of a product or project into phases. [CMMI] See also <i>software lifecycle</i>. 
+<b>link testing</b>: See <i>component integration testing</i>. 
+<b>load profile</b>: A specification of the activity which a component or system being tested may experience in production. A load profile consists of a designated number of virtual users who process a defined set of transactions in a specified time period and according to a predefined operational profile. See also <i>operational profile</i>. 
+F <b>load testing</b>: A type of performance testing conducted to evaluate the behavior of a component or system with increasing load, e.g. numbers of parallel users and/or numbers of transactions, to determine what load can be handled by the component or system. See also <i>performance testing</i>, <i>stress testing</i>. 
+F <b>load testing tool</b>: A tool to support load testing whereby it can simulate increasing load, e.g., numbers of concurrent users and/or transactions within a specified time-period. See also <i>performance testing tool</i>. 
+<b>logic-coverage testing</b>: See <i>white box testing</i>. [Myers] 
+<b>logic-driven testing</b>: See <i>white box testing</i>. 
+ATA <b>logical test case</b>: See <i>high level test case</i>. 
+ATA <b>low level test case</b>: A test case with concrete (implementation level) values for input data and expected results. Logical operators from high level test cases are replaced by actual values that correspond to the objectives of the logical operators. See also <i>high level test case</i>. 
+<b>man in the middle attack</b>: The interception, mimicking and/or altering and subsequent relaying of communications (e.g., credit card transactions) by a third party such that a user remains unaware of that third party's presence. 
+<b>maintainability</b>: The ease with which a software product can be modified to correct defects, modified to meet new requirements, modified to make future maintenance easier, or adapted to a changed environment. [ISO 9126] 
+F ATT <b>maintainability testing</b>: The process of testing to determine the maintainability of a software product. 
+<b>maintenance</b>: Modification of a software product after delivery to correct defects, to improve performance or other attributes, or to adapt the product to a modified environment. [IEEE 1219] 
+F <b>maintenance testing</b>: Testing the changes to an operational system or the impact of a changed environment to an operational system. 
+ATM <b>management review</b>: A systematic evaluation of software acquisition, supply, development, operation, or maintenance process, performed by or on behalf of management that monitors progress, determines the status of plans and schedules, confirms requirements and their system allocation, or evaluates the effectiveness of management approaches to achieve fitness for purpose. [After IEEE 610, IEEE 1028] 
+EITP <b>manufacturing-based quality</b>: A view of quality, whereby quality is measured by the degree to which a product or service conforms to its intended design and requirements. Quality arises from the process(es) used. [After Garvin] See also <i>product-based quality</i>, <i>transcendent-based quality</i>, <i>user-based quality</i>, <i>value-based quality</i>. 
+ATM <b>master test plan</b>: A test plan that typically addresses multiple test levels. See also <i>test plan</i>. 
+ATT <b>maturity</b>: (1) The capability of an organization with respect to the effectiveness and efficiency of its processes and work practices. See also <i>Capability Maturity Model Integration</i>, <i>Test Maturity Model integration</i>. (2) The capability of the software product to avoid failure as a result of defects in the software. [ISO 9126] See also <i>reliability</i>. 
+EITP <b>maturity level</b>: Degree of process improvement across a predefined set of process areas in which all goals in the set are attained. [TMMi] 
+<b>maturity model</b>: A structured collection of elements that describe certain aspects of maturity in an organization, and aid in the definition and understanding of an organization's processes. A maturity model often provides a common language, shared vision and framework for prioritizing improvement actions. 
+<b>Mean Time Between Failures</b>: The arithmetic mean (average) time between failures of a system. The MTBF is typically part of a reliability growth model that assumes the failed system is immediately repaired, as a part of a defect fixing process. See also <i>reliability growth model</i>. 
+<b>Mean Time To Repair</b>: The arithmetic mean (average) time a system will take to recover from any failure. This typically includes testing to insure that the defect has been resolved. 
+EITP <b>measure</b>: The number or category assigned to an attribute of an entity by making a measurement. [ISO 14598] 
+<b>measurement</b>: The process of assigning a number or category to an entity to describe an attribute of that entity. [ISO 14598] 
+<b>measurement scale</b>: A scale that constrains the type of data analysis that can be performed on it. [ISO 14598] 
+ATT <b>memory leak</b>: A memory access failure due to a defect in a program's dynamic store allocation logic that causes it to fail to release memory after it has finished using it, eventually causing the program and/or other concurrent processes to fail due to lack of memory. 
+ETM <b>methodical testing</b>: Testing based on a standard set of tests, e.g., a checklist, a quality standard, or a set of generalized test cases. 
+F EITP <b>metric</b>: A measurement scale and the method used for measurement. [ISO 14598] 
+<b>migration testing</b>: See <i>conversion testing</i>. 
+<b>milestone</b>: A point in time in a project at which defined (intermediate) deliverables and results should be ready. 
+EITP <b>mind map</b>: A diagram used to represent words, ideas, tasks, or other items linked to and arranged around a central keyword or idea. Mind maps are used to generate, visualize, structure, and classify ideas, and as an aid in study, organization, problem solving, decision making, and writing. 
+F <b>mistake</b>: See <i>error</i>. 
+ETM <b>model-based testing</b>: Testing based on a model of the component or system under test, e.g., reliability growth models, usage models such as operational profiles or behavioural models such as decision table or state transition diagram. 
+F <b>modeling tool</b>: A tool that supports the creation, amendment and verification of models of the software or system [Graham]. 
+F ATM <b>moderator</b>: The leader and main person responsible for an inspection or other review process. 
+<b>modified condition decision coverage</b>: The percentage of all single condition outcomes that independently affect a decision outcome that have been exercised by a test case suite. 100% modified condition decision coverage implies 100% decision condition coverage. 
+<b>modified condition decision testing</b>: A white box test design technique in which test cases are designed to execute single condition outcomes that independently affect a decision outcome. 
+<b>modified multiple condition coverage</b>: See <i>modified condition decision coverage</i>. 
+<b>modified multiple condition testing</b>: See <i>modified condition decision testing</i>. 
+<b>module</b>: See <i>component</i>. 
+<b>module testing</b>: See <i>component testing</i>. 
+<b>monitor</b>: A software tool or hardware device that runs concurrently with the component or system under test and supervises, records and/or analyses the behavior of the component or system. [After IEEE 610] 
+F <b>monitoring tool</b>: See <i>monitor</i>. 
+<b>monkey testing</b>: Testing by means of a random selection from a large range of inputs and by randomly pushing buttons, ignorant of how the product is being used. 
+<b>MTBF</b>: See <i>Mean Time Between Failures</i>. 
+<b>MTTR</b>: See <i>Mean Time To Repair</i>. 
+<b>multiple condition</b>: See <i>compound condition</i>. 
+<b>multiple condition coverage</b>: The percentage of combinations of all single condition outcomes within one statement that have been exercised by a test suite. 100% multiple condition coverage implies 100% modified condition decision coverage. 
+ATT <b>multiple condition testing</b>: A white box test design technique in which test cases are designed to execute combinations of single condition outcomes (within one statement). 
+<b>mutation analysis</b>: A method to determine test suite thoroughness by measuring the extent to which a test suite can discriminate the program from slight variants (mutants) of the program. 
+<b>mutation testing</b>: See <i>back-to-back testing</i>. 
+ETM <b>Myers-Briggs Type Indicator (MBTI)</b>: An indicator of psychological preference representing the different personalities and communication styles of people. 
+<b>N-switch coverage</b>: The percentage of sequences of N+1 transitions that have been exercised by a test suite. [Chow] 
+<b>N-switch testing</b>: A form of state transition testing in which test cases are designed to execute all valid sequences of N+1 transitions. [Chow] See also <i>state transition testing</i>. 
+<b>negative testing</b>: Tests aimed at showing that a component or system does not work. Negative testing is related to the testers' attitude rather than a specific test approach or test design technique, e.g. testing with invalid input values or exceptions. [After Beizer]. 
+ATT <b>neighborhood integration testing</b>: A form of integration testing where all of the nodes that connect to a given node are the basis for the integration testing. 
+<b>non-conformity</b>: Non fulfillment of a specified requirement. [ISO 9000] 
+F <b>non-functional requirement</b>: A requirement that does not relate to functionality, but to attributes such as reliability, efficiency, usability, maintainability and portability. 
+<b>non-functional test design technique</b>: Procedure to derive and/or select test cases for nonfunctional testing based on an analysis of the specification of a component or system without reference to its internal structure. See also <i>black box test design technique</i>. 
+<b>non-functional testing</b>: Testing the attributes of a component or system that do not relate to functionality, e.g. reliability, efficiency, usability, maintainability and portability. 
+<b>off-the-shelf software</b>: A software product that is developed for the general market, i.e. for a large number of customers, and that is delivered to many customers in identical format. 
+ATM <b>open source tool</b>: A software tool that is available to all potential users in source code form, usually via the internet; its users are permitted, usually under licence, to study, change, improve and, at times, to distribute the software. 
+ATA <b>operability</b>: The capability of the software product to enable the user to operate and control it. [ISO 9126] See also <i>usability</i>. 
+ATT <b>operational acceptance testing</b>: Operational testing in the acceptance test phase, typically performed in a (simulated) operational environment by operations and/or systems administration staff focusing on operational aspects, e.g. recoverability, resource-behavior, installability and technical compliance. See also <i>operational testing</i>. 
+<b>operational environment</b>: Hardware and software products installed at users' or customers' sites where the component or system under test will be used. The software may include operating systems, database management systems, and other applications. 
+ETM ATT <b>operational profile</b>: The representation of a distinct set of tasks performed by the component or system, possibly based on user behavior when interacting with the component or system, and their probabilities of occurrence. A task is logical rather that physical and can be executed over several machines or be executed in non-contiguous time segments. 
+<b>operational profile testing</b>: Statistical testing using a model of system operations (short duration tasks) and their probability of typical use. [Musa] 
+ETM <b>operational profiling</b>: The process of developing and implementing an operational profile. See also <i>operational profile</i>. 
+<b>operational testing</b>: Testing conducted to evaluate a component or system in its operational environment. [IEEE 610] 
+<b>oracle</b>: See <i>test oracle</i>. 
+ATA <b>orthogonal array</b>: A 2-dimensional array constructed with special mathematical properties, such that choosing any two columns in the array provides every pair combination of each number in the array. 
+<b>orthogonal array testing</b>: A systematic way of testing all-pair combinations of variables using orthogonal arrays. It significantly reduces the number of all combinations of variables to test all pair combinations. See also <i>pairwise testing</i>. 
+<b>outcome</b>: See <i>result</i>. 
+<b>output</b>: A variable (whether stored within a component or outside) that is written by a component. 
+<b>output domain</b>: The set from which valid output values can be selected. See also <i>domain</i>. 
+<b>output value</b>: An instance of an output. See also <i>output</i>. 
+<b>outsourced testing</b>: Testing performed by people who are not co-located with the project team and are not fellow employees. 
+<b>pair programming</b>: A software development approach whereby lines of code (production and/or test) of a component are written by two programmers sitting at a single computer. This implicitly means ongoing real-time code reviews are performed. 
+<b>pair testing</b>: Two persons, e.g. two testers, a developer and a tester, or an end-user and a tester, working together to find defects. Typically, they share one computer and trade control of it while testing. 
+ATT <b>pairwise integration testing</b>: A form of integration testing that targets pairs of components that work together, as shown in a call graph. 
+ATA <b>pairwise testing</b>: A black box test design technique in which test cases are designed to execute all possible discrete combinations of each pair of input parameters. See also <i>orthogonal array testing</i>. 
+EITP <b>Pareto analysis</b>: A statistical technique in decision making that is used for selection of a limited number of factors that produce significant overall effect. In terms of quality improvement, a large majority of problems (80%) are produced by a few key causes (20%). 
+<b>partition testing</b>: See <i>equivalence partitioning</i>. [Beizer] 
+<b>pass</b>: A test is deemed to pass if its actual result matches its expected result. 
+<b>pass/fail criteria</b>: Decision rules used to determine whether a test item (function) or feature has passed or failed a test. [IEEE 829] 
+<b>path</b>: A sequence of events, e.g. executable statements, of a component or system from an entry point to an exit point. 
+<b>path coverage</b>: The percentage of paths that have been exercised by a test suite. 100% path coverage implies 100% LCSAJ coverage. 
+<b>path sensitizing</b>: Choosing a set of input values to force the execution of a given path. 
+ATT <b>path testing</b>: A white box test design technique in which test cases are designed to execute paths. 
+F <b>peer review</b>: A review of a software work product by colleagues of the producer of the product for the purpose of identifying defects and improvements. Examples are inspection, technical review and walkthrough. 
+<b>performance</b>: The degree to which a system or component accomplishes its designated functions within given constraints regarding processing time and throughput rate. [After IEEE 610] See also <i>efficiency</i>. 
+<b>performance indicator</b>: A high level metric of effectiveness and/or efficiency used to guide and control progressive development, e.g. lead-time slip for software development. [CMMI] 
+<b>performance profiling</b>: The task of analyzing, e.g., identifying performance bottlenecks based on generated metrics, and tuning the performance of a software component or system using tools. 
+F ATT <b>performance testing</b>: The process of testing to determine the performance of a software product. See also <i>efficiency testing</i>. 
+F ATT <b>performance testing tool</b>: A tool to support performance testing that usually has two main facilities: load generation and test transaction measurement. Load generation can simulate either multiple users or high volumes of input data. During execution, response time measurements are taken from selected transactions and these are logged. Performance testing tools normally provide reports based on test logs and graphs of load against response times. 
+ATA ATM <b>phase containment</b>: The percentage of defects that are removed in the same phase of the software lifecycle in which they were introduced. 
+<b>phase test plan</b>: A test plan that typically addresses one test phase. See also <i>test plan</i>. 
+ETM <b>planning poker</b>: A consensus-based estimation technique, mostly used to estimate effort or relative size of user stories in agile software development. It is a variation of the Wide Band Delphi method using a deck of cards with values representing the units in which the team estimates. See also <i>agile software development</i>, <i>Wide Band Delphi</i>. 
+<b>pointer</b>: A data item that specifies the location of another data item; for example, a data item that specifies the address of the next employee record to be processed. [IEEE 610] 
+<b>portability</b>: The ease with which the software product can be transferred from one hardware or software environment to another. [ISO 9126] 
+F ATT <b>portability testing</b>: The process of testing to determine the portability of a software product. 
+<b>postcondition</b>: Environmental and state conditions that must be fulfilled after the execution of a test or test procedure. 
+<b>post-execution comparison</b>: Comparison of actual and expected results, performed after the software has finished running. 
+<b>post-project meeting</b>: See <i>retrospective meeting</i>. 
+<b>precondition</b>: Environmental and state conditions that must be fulfilled before the component or system can be executed with a particular test or test procedure. 
+<b>predicate</b>: A statement that can evaluate to true or false and may be used to determine the control flow of subsequent decision logic. See also <i>decision</i>. 
+<b>predicted outcome</b>: See <i>expected result</i>. 
+<b>pretest</b>: See <i>intake test</i>. 
+ATM <b>priority</b>: The level of (business) importance assigned to an item, e.g. defect. 
+F <b>probe effect</b>: The effect on the component or system by the measurement instrument when the component or system is being measured, e.g. by a performance testing tool or monitor. For example performance may be slightly worse when performance testing tools are being used. 
+<b>problem</b>: See <i>defect</i>. 
+<b>problem management</b>: See <i>defect management</i>. 
+<b>problem report</b>: See <i>defect report</i>. 
+<b>procedure testing</b>: Testing aimed at ensuring that the component or system can operate in conjunction with new or existing users' business procedures or operational procedures. process: A set of interrelated activities, which transform inputs into outputs. [ISO 12207] 
+EITP <b>process assessment</b>: A disciplined evaluation of an organization's software processes against a reference model. [after ISO 15504] 
+ETM <b>process-compliant testing</b>: Testing that follows a set of defined processes, e.g., defined by an external party such as a standards committee. See also <i>standard-compliant testing</i>. 
+<b>process cycle test</b>: A black box test design technique in which test cases are designed to execute business procedures and processes. [TMap] See also <i>procedure testing</i>. 
+<b>process improvement</b>: A program of activities designed to improve the performance and maturity of the organization's processes, and the result of such a program. [CMMI] 
+EITP <b>process model</b>: A framework wherein processes of the same nature are classified into a overall model, e.g. a test improvement model. 
+EITP <b>product-based quality</b>: A view of quality, wherein quality is based on a well-defined set of quality attributes. These attributes must be measured in an objective and quantitative way. Differences in the quality of products of the same type can be traced back to the way the specific quality attributes have been implemented. [After Garvin] See also <i>manufacturing-based quality</i>, <i>quality attribute</i>, <i>transcendent-based quality</i>, <i>user-based quality</i>, <i>value-based quality</i>. 
+F ATM ATA ATT <b>product risk</b>: A risk directly related to the test object. See also <i>risk</i>. 
+<b>production acceptance testing</b>: See <i>operational acceptance testing</i>. 
+<b>program instrumenter</b>: See <i>instrumenter</i>. 
+<b>program testing</b>: See <i>component testing</i>. 
+<b>project</b>: A project is a unique set of coordinated and controlled activities with start and finish dates undertaken to achieve an objective conforming to specific requirements, including the constraints of time, cost and resources. [ISO 9000] 
+EITP <b>project retrospective</b>: A structured way to capture lessons learned and to create specific action plans for improving on the next project or next project phase. 
+F ATM <b>project risk</b>: A risk related to management and control of the (test) project, e.g. lack of staffing, strict deadlines, changing requirements, etc. See also <i>risk</i>. 
+<b>project test plan</b>: See <i>master test plan</i>. 
+<b>pseudo-random</b>: A series which appears to be random but is in fact generated according to some prearranged sequence. 
+<b>qualification</b>: The process of demonstrating the ability to fulfill specified requirements. Note the term 'qualified' is used to designate the corresponding status. [ISO 9000] 
+F <b>quality</b>: The degree to which a component, system or process meets specified requirements and/or user/customer needs and expectations. [After IEEE 610] 
+<b>quality assurance</b>: Part of quality management focused on providing confidence that quality requirements will be fulfilled. [ISO 9000] 
+<b>quality attribute</b>: A feature or characteristic that affects an item's quality. [IEEE 610] 
+<b>quality characteristic</b>: See <i>quality attribute</i>. 
+<b>quality control</b>: The operational techniques and activities, part of quality management, that are focused on fulfilling quality requirements. [after ISO 8402] 
+<b>quality gate</b>: A special milestone in a project. Quality gates are located between those phases of a project strongly depending on the outcome of a previous phase. A quality gate includes a formal check of the documents of the previous phase. 
+<b>quality management</b>: Coordinated activities to direct and control an organization with regard to quality. Direction and control with regard to quality generally includes the establishment of the quality policy and quality objectives, quality planning, quality control, quality assurance and quality improvement. [ISO 9000] 
+ATM <b>quality risk</b>: A risk related to a quality attribute. See also <i>quality attribute</i>, <i>product risk</i>. 
+ETM <b>RACI matrix</b>: A matrix describing the participation by various roles in completing tasks or deliverables for a project or process. It is especially useful in clarifying roles and responsibilities. RACI is an acronym derived from the four key responsibilities most typically used: Responsible, Accountable, Consulted, and Informed. 
+<b>random testing</b>: A black box test design technique where test cases are selected, possibly using a pseudo-random generation algorithm, to match an operational profile. This technique can be used for testing non-functional attributes such as reliability and performance. 
+EITP <b>Rational Unified Process</b>: A proprietary adaptable iterative software development process framework consisting of four project lifecycle phases: inception, elaboration, construction and transition. 
+ETM <b>reactive testing</b>: Testing that dynamically responds to the actual system under test and test results being obtained. Typically reactive testing has a reduced planning cycle and the design and implementation test phases are not carried out until the test object is received. 
+<b>recorder</b>: See <i>scribe</i>. 
+ATT <b>record/playback tool</b>: See <i>capture/playback tool</i>. 
+<b>recoverability</b>: The capability of the software product to re-establish a specified level of performance and recover the data directly affected in case of failure. [ISO 9126] See also <i>reliability</i>. 
+ATT <b>recoverability testing</b>: The process of testing to determine the recoverability of a software product. See also <i>reliability testing</i>. 
+<b>recovery testing</b>: See <i>recoverability testing</i>. 
+ETM <b>regression-averse testing</b>: Testing using various techniques to manage the risk of regression, e.g., by designing re-usable testware and by extensive automation of testing at one or more test levels. 
+F <b>regression testing</b>: Testing of a previously tested program following modification to ensure that defects have not been introduced or uncovered in unchanged areas of the software, as a result of the changes made. It is performed when the software or its environment is changed. 
+<b>regulation testing</b>: See <i>compliance testing</i>. 
+<b>release note</b>: A document identifying test items, their configuration, current status and other delivery information delivered by development to testing, and possibly other stakeholders, at the start of a test execution phase. [After IEEE 829] 
+<b>reliability</b>: The ability of the software product to perform its required functions under stated conditions for a specified period of time, or for a specified number of operations. [ISO 9126] 
+ATT <b>reliability growth model</b>: A model that shows the growth in reliability over time during continuous testing of a component or system as a result of the removal of defects that result in reliability failures. 
+F ATT <b>reliability testing</b>: The process of testing to determine the reliability of a software product. 
+ATT <b>replaceability</b>: The capability of the software product to be used in place of another specified software product for the same purpose in the same environment. [ISO 9126] See also <i>portability</i>. 
+F <b>requirement</b>: A condition or capability needed by a user to solve a problem or achieve an objective that must be met or possessed by a system or system component to satisfy a contract, standard, specification, or other formally imposed document. [After IEEE 610] 
+ATA <b>requirements-based testing</b>: An approach to testing in which test cases are designed based on test objectives and test conditions derived from requirements, e.g. tests that exercise specific functions or probe non-functional attributes such as reliability or usability. 
+F <b>requirements management tool</b>: A tool that supports the recording of requirements, requirements attributes (e.g. priority, knowledge responsible) and annotation, and facilitates traceability through layers of requirements and requirements change management. Some requirements management tools also provide facilities for static analysis, such as consistency checking and violations to pre-defined requirements rules. 
+<b>requirements phase</b>: The period of time in the software lifecycle during which the requirements for a software product are defined and documented. [IEEE 610] 
+<b>resource utilization</b>: The capability of the software product to use appropriate amounts and types of resources, for example the amounts of main and secondary memory used by the program and the sizes of required temporary or overflow files, when the software performs its function under stated conditions. [After ISO 9126] See also <i>efficiency</i>. 
+ATT <b>resource utilization testing</b>: The process of testing to determine the resource-utilization of a software product. See also <i>efficiency testing</i>. 
+<b>result</b>: The consequence/outcome of the execution of a test. It includes outputs to screens, changes to data, reports, and communication messages sent out. See also <i>actual result</i>, <i>expected result</i>. 
+<b>resumption criteria</b>: The criteria used to restart all or a portion of the testing activities that were suspended previously. 
+<b>resumption requirements</b>: The defined set of testing activities that must be repeated when testing is re-started after a suspension. [After IEEE 829] 
+F <b>re-testing</b>: Testing that runs test cases that failed the last time they were run, in order to verify the success of corrective actions. 
+EITP <b>retrospective meeting</b>: A meeting at the end of a project during which the project team members evaluate the project and learn lessons that can be applied to the next project. 
+F ATM <b>review</b>: An evaluation of a product or project status to ascertain discrepancies from planned results and to recommend improvements. Examples include management review, informal review, technical review, inspection, and walkthrough. [After IEEE 1028] 
+ATM <b>review plan</b>: A document describing the approach, resources and schedule of intended review activities. It identifies, amongst others: documents and code to be reviewed, review types to be used, participants, as well as entry and exit criteria to be applied in case of formal reviews, and the rationale for their choice. It is a record of the review planning process. 
+F <b>review tool</b>: A tool that provides support to the review process. Typical features include review planning and tracking support, communication support, collaborative reviews and a repository for collecting and reporting of metrics. 
+F ATM <b>reviewer</b>: The person involved in the review that identifies and describes anomalies in the product or project under review. Reviewers can be chosen to represent different viewpoints and roles in the review process. 
+F ATM <b>risk</b>: A factor that could result in future negative consequences; usually expressed as impact and likelihood. 
+ATM ATA ATT <b>risk analysis</b>: The process of assessing identified risks to estimate their impact and probability of occurrence (likelihood). 
+ATM ATT <b>risk assessment</b>: The process of assessing a given project or product risk to determine its level of risk, typically by assigning likelihood and impact ratings and then aggregating those ratings into a single risk priority rating. See also <i>product risk</i>, <i>project risk</i>, <i>risk</i>, <i>risk impact</i>, <i>risk level</i>, <i>risk likelihood</i>. 
+F ATM ATA ATT <b>risk-based testing</b>: An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process. 
+<b>risk category</b>: See <i>risk type</i>. 
+ATM ATA ATT <b>risk control</b>: The process through which decisions are reached and protective measures are implemented for reducing risks to, or maintaining risks within, specified levels. 
+ATM ATA ATT <b>risk identification</b>: The process of identifying risks using techniques such as brainstorming, checklists and failure history.
+<b>risk impact</b>: The damage that will be caused if the risk become an actual outcome or event. 
+ATM ATA ATT <b>risk level</b>: The importance of a risk as defined by its characteristics impact and likelihood. The level of risk can be used to determine the intensity of testing to be performed. A risk level can be expressed either qualitatively (e.g. high, medium, low) or quantitatively. 
+<b>risk likelihood</b>: The estimated probability that a risk will become an actual outcome or event. 
+ATM ATA <b>risk management</b>: Systematic application of procedures and practices to the tasks of identifying, analyzing, prioritizing, and controlling risk. 
+ATM ATA ATT <b>risk mitigation</b>: See <i>risk control</i>. 
+<b>risk type</b>: A set of risks grouped by one or more common factors such as a quality attribute, cause, location, or potential effect of risk;. A specific set of product risk types is related to the type of testing that can mitigate (control) that risk type. For example the risk of user-interactions being misunderstood can be mitigated by usability testing. 
+ATT <b>robustness</b>: The degree to which a component or system can function correctly in the presence of invalid inputs or stressful environmental conditions. [IEEE 610] See also <i>error-tolerance</i>, <i>fault-tolerance</i>. 
+F <b>robustness testing</b>: Testing to determine the robustness of the software product. 
+ATM <b>root cause</b>: A source of a defect such that if it is removed, the occurrence of the defect type is decreased or removed. [CMMI] 
+ATA <b>root cause analysis</b>: An analysis technique aimed at identifying the root causes of defects. By directing corrective measures at root causes, it is hoped that the likelihood of defect recurrence will be minimized. 
+EITP <b>RUP</b>: See <i>Rational Unified Process</i>. 
+<b>safety</b>: The capability of the software product to achieve acceptable levels of risk of harm to people, business, software, property or the environment in a specified context of use. [ISO 9126] 
+<b>safety critical system</b>: A system whose failure or malfunction may result in death or serious injury to people, or loss or severe damage to equipment, or environmental harm. 
+<b>safety testing</b>: Testing to determine the safety of a software product. 
+<b>sanity test</b>: See <i>smoke test</i>. 
+<b>scalability</b>: The capability of the software product to be upgraded to accommodate increased loads. [After Gerrard] 
+<b>scalability testing</b>: Testing to determine the scalability of the software product. 
+<b>scenario testing</b>: See <i>use case testing</i>. 
+<b>scorecard</b>: A representation of summarized performance measurements representing progress towards the implementation of long-term goals. A scorecard provides static measurements of performance over or at the end of a defined interval. See also <i>balanced scorecard</i>, <i>dashboard</i>. 
+F <b>scribe</b>: The person who records each defect mentioned and any suggestions for process improvement during a review meeting, on a logging form. The scribe should ensure that the logging form is readable and understandable. 
+<b>scripted testing</b>: Test execution carried out by following a previously documented sequence of tests. 
+F <b>scripting language</b>: A programming language in which executable test scripts are written, used by a test execution tool (e.g. a capture/playback tool). 
+EITP <b>SCRUM</b>: An iterative incremental framework for managing projects commonly used with agile software development. See also <i>agile software development</i>. 
+<b>security</b>: Attributes of software products that bear on its ability to prevent unauthorized access, whether accidental or deliberate, to programs and data. [ISO 9126] See also <i>functionality</i>. 
+F ATT <b>security testing</b>: Testing to determine the security of the software product. See also <i>functionality testing</i>. 
+<b>security testing tool</b>: A tool that provides support for testing security characteristics and vulnerabilities. 
+F <b>security tool</b>: A tool that supports operational security. 
+<b>serviceability testing</b>: See <i>maintainability testing</i>. 
+<b>session-based test management</b>: A method for measuring and managing session-based testing, e.g. exploratory testing. 
+<b>session-based testing</b>: An approach to testing in which test activities are planned as uninterrupted sessions of test design and execution, often used in conjunction with exploratory testing. 
+ATM <b>severity</b>: The degree of impact that a defect has on the development or operation of a component or system. [After IEEE 610] 
+ETM <b>Shewhart chart</b>: See <i>control chart</i>. 
+ATT <b>short-circuiting</b>: A programming language/interpreter technique for evaluating compound conditions in which a condition on one side of a logical operator may not be evaluated if the condition on the other side is sufficient to determine the final outcome. 
+<b>simulation</b>: The representation of selected behavioral characteristics of one physical or abstract system by another system. [ISO 2382/1] 
+<b>simulator</b>: A device, computer program or system used during testing, which behaves or operates like a given system when provided with a set of controlled inputs. [After IEEE 610, DO178b] See also <i>emulator</i>. 
+<b>site acceptance testing</b>: Acceptance testing by users/customers at their site, to determine whether or not a component or system satisfies the user/customer needs and fits within the business processes, normally including hardware as well as software. 
+ETM <b>S.M.A.R.T. goal methodology</b>: A methodology whereby objectives are defined very specifically rather than generically. SMART is an acronym derived from the attributes of the objective to be defined: Specific, Measurable, Attainable, Relevant and Timely. 
+<b>smoke test</b>: A subset of all defined/planned test cases that cover the main functionality of a component or system, to ascertaining that the most crucial functions of a program work, but not bothering with finer details. A daily build and smoke test is among industry best practices. See also <i>intake test</i>. 
+<b>software</b>: Computer programs, procedures, and possibly associated documentation and data pertaining to the operation of a computer system. [IEEE 610] 
+<b>software attack</b>: See <i>attack</i>. 
+<b>Software Failure Mode and Effect Analysis (SFMEA)</b>: See <i>Failure Mode and Effect Analysis (FMEA)</i>. 
+<b>Software Failure Mode, Effects, and Criticality Analysis (SFMECA)</b>: See <i>Failure Mode,Effects, and Criticality Analysis (FMECA)</i>. 
+<b>Software Fault Tree Analysis (SFTA)</b>: See <i>Fault Tree Analysis (FTA)</i>. 
+<b>software feature</b>: See <i>feature</i>. 
+<b>software integrity level</b>: The degree to which software complies or must comply with a set of stakeholder-selected software and/or software-based system characteristics (e.g., software complexity, risk assessment, safety level, security level, desired performance, reliability, or cost) which are defined to reflect the importance of the software to its stakeholders. 
+EITP <b>software lifecycle</b>: The period of time that begins when a software product is conceived and ends when the software is no longer available for use. The software lifecycle typically includes a concept phase, requirements phase, design phase, implementation phase, test phase, installation and checkout phase, operation and maintenance phase, and sometimes, retirement phase. Note these phases may overlap or be performed iteratively. 
+EITP <b>Software Process Improvement</b>: A program of activities designed to improve the performance and maturity of the organization's software processes and the results of such a program. [After CMMI] 
+<b>software product characteristic</b>: See <i>quality attribute</i>. 
+<b>software quality</b>: The totality of functionality and features of a software product that bear on its ability to satisfy stated or implied needs. [After ISO 9126] See also <i>quality</i>. 
+<b>software quality characteristic</b>: See <i>quality attribute</i>. 
+<b>software test incident</b>: See <i>incident</i>. 
+<b>software test incident report</b>: See <i>incident report</i>. 
+ATA <b>Software Usability Measurement Inventory (SUMI)</b>: A questionnaire-based usability test technique for measuring software quality from the end user's point of view. [Veenendaal04] 
+<b>source statement</b>: See <i>statement</i>. 
+<b>specification</b>: A document that specifies, ideally in a complete, precise and verifiable manner, the requirements, design, behavior, or other characteristics of a component or system, and, often, the procedures for determining whether these provisions have been satisfied. [After IEEE 610] 
+<b>specification-based testing</b>: See <i>black box testing</i>. 
+ATA <b>specification-based technique</b>: See <i>black box test design technique</i>. 
+<b>specification-based test design technique</b>: See <i>black box test design technique</i>. 
+<b>specified input</b>: An input for which the specification predicts a result. 
+EITP <b>SPI</b>: See <i>Software Process Improvement</i>. 
+ATT <b>stability</b>: The capability of the software product to avoid unexpected effects from modifications in the software. [ISO 9126] See also <i>maintainability</i>. 
+EITP <b>staged representation</b>: A model structure wherein attaining the goals of a set of process areas establishes a maturity level; each level builds a foundation for subsequent levels. [CMMI] 
+EITP <b>standard</b>: Formal, possibly mandatory, set of requirements developed and used to prescribe consistent approaches to the way of working or to provide guidelines (e.g., ISO/IEC standards, IEEE standards, and organizational standards). [After CMMI] 
+ETM <b>standard-compliant testing</b>: Testing that complies to a set of requirements defined by a standard, e.g., an industry testing standard or a standard for testing safety-critical systems. See also <i>process-compliant testing</i>. 
+<b>standard software</b>: See <i>off-the-shelf software</i>. 
+<b>standards testing</b>: See <i>compliance testing</i>. 
+<b>state diagram</b>: A diagram that depicts the states that a component or system can assume, and shows the events or circumstances that cause and/or result from a change from one state to another. [IEEE 610] 
+<b>state table</b>: A grid showing the resulting transitions for each state combined with each possible event, showing both valid and invalid transitions. 
+<b>state transition</b>: A transition between two states of a component or system. 
+F ATA <b>state transition testing</b>: A black box test design technique in which test cases are designed to execute valid and invalid state transitions. See also <i>N-switch testing</i>. 
+<b>statement</b>: An entity in a programming language, which is typically the smallest indivisible unit of execution. 
+F <b>statement coverage</b>: The percentage of executable statements that have been exercised by a test suite. 
+ATT <b>statement testing</b>: A white box test design technique in which test cases are designed to execute statements. 
+F ATT <b>static analysis</b>: Analysis of software development artifacts, e.g. requirements or code, carried out without execution of these software development artifacts. Static analysis is usually carried out by means of a supporting tool. 
+F <b>static analysis tool</b>: See <i>static analyzer</i>. 
+ATT <b>static analyzer</b>: A tool that carries out static analysis. 
+<b>static code analysis</b>: Analysis of source code carried out without execution of that software. 
+<b>static code analyzer</b>: A tool that carries out static code analysis. The tool checks source code, for certain properties such as conformance to coding standards, quality metrics or data flow anomalies. 
+F <b>static testing</b>: Testing of a software development artifact, e.g., requirements, design or code, without execution of these artifacts, e.g., reviews or static analysis. 
+<b>statistical testing</b>: A test design technique in which a model of the statistical distribution of the input is used to construct representative test cases. See also <i>operational profile testing</i>. 
+<b>status accounting</b>: An element of configuration management, consisting of the recording and reporting of information needed to manage a configuration effectively. This information includes a listing of the approved configuration identification, the status of proposed changes to the configuration, and the implementation status of the approved changes. [IEEE 610] 
+ATM EITP <b>STEP</b>: See <i>Systematic Test and Evaluation Process</i>. 
+<b>storage</b>: See <i>resource utilization</i>. 
+<b>storage testing</b>: See <i>resource utilization testing</i>. 
+F <b>stress testing</b>: A type of performance testing conducted to evaluate a system or component at or beyond the limits of its anticipated or specified workloads, or with reduced availability of resources such as access to memory or servers. [After IEEE 610] See also <i>performance testing</i>, <i>load testing</i>. 
+F <b>stress testing tool</b>: A tool that supports stress testing. 
+<b>structural coverage</b>: Coverage measures based on the internal structure of a component or system. 
+<b>structural test design technique</b>: See <i>white-box test design technique</i>. 
+F <b>structural testing</b>: See <i>white-box testing</i>. 
+<b>structure-based test design technique</b>: See <i>white-box test design technique</i>. 
+ATT <b>structure-based technique</b>: See <i>white-box test design technique</i>. 
+F <b>structure-based testing</b>: See <i>white-box testing</i>. 
+<b>structured walkthrough</b>: See <i>walkthrough</i>. 
+F <b>stub</b>: A skeletal or special-purpose implementation of a software component, used to develop or test a component that calls or is otherwise dependent on it. It replaces a called component. [After IEEE 610] 
+<b>subpath</b>: A sequence of executable statements within a component. 
+<b>suitability</b>: The capability of the software product to provide an appropriate set of functions for specified tasks and user objectives. [ISO 9126] See also <i>functionality</i>. 
+ATA <b>suitability testing</b>: The process of testing to determine the suitability of a software product 
+ATA <b>SUMI</b>: See <i>Software Usability Measurement Inventory</i>. 
+<b>suspension criteria</b>: The criteria used to (temporarily) stop all or a portion of the testing activities on the test items. [After IEEE 829] 
+<b>syntax testing</b>: A black box test design technique in which test cases are designed based upon the definition of the input domain and/or output domain. 
+<b>system</b>: A collection of components organized to accomplish a specific function or set of functions. [IEEE 610] 
+<b>system integration testing</b>: Testing the integration of systems and packages; testing interfaces to external organizations (e.g. Electronic Data Interchange, Internet). 
+<b>system of systems</b>: Multiple heterogeneous, distributed systems that are embedded in networks at multiple levels and in multiple interconnected domains, addressing large-scale inter-disciplinary common problems and purposes, usually without a common management structure. 
+F <b>system testing</b>: The process of testing an integrated system to verify that it meets specified requirements. [Hetzel] 
+ATM EITP <b>Systematic Test and Evaluation Process</b>: A structured testing methodology, also used as a content-based model for improving the testing process. Systematic Test and Evaluation Process (STEP) does not require that improvements occur in a specific order. See also <i>content-based model</i>. 
+F ATM <b>technical review</b>: A peer group discussion activity that focuses on achieving consensus on the technical approach to be taken. [Gilb and Graham], [IEEE 1028] See also <i>peer review</i>. 
+<b>test</b>: A set of one or more test cases. [IEEE 829] 
+F ATM <b>test approach</b>: The implementation of the test strategy for a specific project. It typically includes the decisions made that follow based on the (test) project's goal and the risk assessment carried out, starting points regarding the test process, the test design techniques to be applied, exit criteria and test types to be performed 
+ETM <b>test architect</b>: (1) A person who provides guidance and strategic direction for a test organization and for its relationship with other disciplines. <br>(2) A person who defines the way testing is structured for a given system, including topics such as test tools and test data management. 
+<b>test automation</b>: The use of software to perform or support test activities, e.g. test management, test design, test execution and results checking. 
+F <b>test basis</b>: All documents from which the requirements of a component or system can be inferred. The documentation on which the test cases are based. If a document can be amended only by way of formal amendment procedure, then the test basis is called a frozen test basis. [After TMap] 
+<b>test bed</b>: See <i>test environment</i>. 
+F ATM <b>test case</b>: A set of input values, execution preconditions, expected results and execution postconditions, developed for a particular objective or test condition, such as to exercise a particular program path or to verify compliance with a specific requirement. [After IEEE 610] 
+<b>test case design technique</b>: See <i>test design technique</i>. 
+F <b>test case specification</b>: A document specifying a set of test cases (objective, inputs, test actions, expected results, and execution preconditions) for a test item. [After IEEE 829] See also <i>test specification</i>. 
+<b>test case suite</b>: See <i>test suite</i>. 
+ATA <b>test charter</b>: A statement of test objectives, and possibly test ideas about how to test. Test charters are used in exploratory testing. See also <i>exploratory testing</i>. 
+ATM <b>test closure</b>: During the test closure phase of a test process data is collected from completed activities to consolidate experience, testware, facts and numbers. The test closure phase consists of finalizing and archiving the testware and evaluating the test process, including preparation of a test evaluation report. See also <i>test process</i>. 
+F <b>test comparator</b>: A test tool to perform automated test comparison of actual results with expected results. 
+<b>test comparison</b>: The process of identifying differences between the actual results produced by the component or system under test and the expected results for a test. Test comparison can be performed during test execution (dynamic comparison) or after test execution. 
+<b>test completion criteria</b>: See <i>exit criteria</i>. 
+F ATM <b>test condition</b>: An item or event of a component or system that could be verified by one or more test cases, e.g. a function, transaction, feature, quality attribute, or structural element. 
+F ATM ATA <b>test control</b>: A test management task that deals with developing and applying a set of corrective actions to get a test project on track when monitoring shows a deviation from what was planned. See also <i>test management</i>. 
+F <b>test coverage</b>: See <i>coverage</i>. 
+<b>test cycle</b>: Execution of the test process against a single identifiable release of the test object. 
+F <b>test data</b>: Data that exists (for example, in a database) before a test is executed, and that affects or is affected by the component or system under test. 
+F ATA <b>test data preparation tool</b>: A type of test tool that enables data to be selected from existing databases or created, generated, manipulated and edited for use in testing. 
+<b>test data management</b>: The process of analyzing test data requirements, designing test data structures, creating and maintaining test data. 
+<b>test deliverable</b>: Any test (work) product that must be delivered to someone other than the test (work) product's author. See also <i>deliverable</i>. 
+F ATM ATA <b>test design</b>: (1) See <i>test design specification</i>. <br>(2) The process of transforming general testing objectives into tangible test conditions and test cases. 
+<b>test design specification</b>: A document specifying the test conditions (coverage items) for a test item, the detailed test approach and identifying the associated high level test cases. [After IEEE 829] See also <i>test specification</i>. 
+F <b>test design technique</b>: Procedure used to derive and/or select test cases. 
+F ATA <b>test design tool</b>: A tool that supports the test design activity by generating test inputs from a specification that may be held in a CASE tool repository, e.g. requirements management tool, from specified test conditions held in the tool itself, or from code. 
+ATM <b>test director</b>: A senior manager who manages test managers. See also <i>test manager</i>. 
+F ETM <b>test driven development</b>: A way of developing software where the test cases are developed, and often automated, before the software is developed to run those test cases. 
+<b>test driver</b>: See <i>driver</i>. 
+F <b>test environment</b>: An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test. [After IEEE 610] 
+ATM <b>test estimation</b>: The calculated approximation of a result related to various aspects of testing (e.g. effort spent, completion date, costs involved, number of test cases, etc.) which is usable even if input data may be incomplete, uncertain, or noisy. 
+<b>test evaluation report</b>: A document produced at the end of the test process summarizing all testing activities and results. It also contains an evaluation of the test process and lessons learned. 
+F ATM ATA <b>test execution</b>: The process of running a test on the component or system under test, producing actual result(s). 
+<b>test execution automation</b>: The use of software, e.g. capture/playback tools, to control the execution of tests, the comparison of actual results to expected results, the setting up of test preconditions, and other test control and reporting functions. 
+<b>test execution phase</b>: The period of time in a software development lifecycle during which the components of a software product are executed, and the software product is evaluated to determine whether or not requirements have been satisfied. [IEEE 610] 
+F <b>test execution schedule</b>: A scheme for the execution of test procedures. Note: The test procedures are included in the test execution schedule in their context and in the order in which they are to be executed. 
+<b>test execution technique</b>: The method used to perform the actual test execution, either manual or automated. 
+F ATA ATT <b>test execution tool</b>: A type of test tool that is able to execute other software using an automated test script, e.g. capture/playback. [Fewster and Graham] 
+<b>test fail</b>: See <i>fail</i>. 
+<b>test generator</b>: See <i>test data preparation tool</i>. 
+F <b>test harness</b>: A test environment comprised of stubs and drivers needed to execute a test. 
+ATM ATA <b>test implementation</b>: The process of developing and prioritizing test procedures, creating test data and, optionally, preparing test harnesses and writing automated test scripts. 
+EITP <b>test improvement plan</b>: A plan for achieving organizational test process improvement objectives based on a thorough understanding of the current strengths and weaknesses of the organization's test processes and test process assets. [After CMMI] 
+<b>test incident</b>: See <i>incident</i>. 
+<b>test incident report</b>: See <i>incident report</i>. 
+<b>test infrastructure</b>: The organizational artifacts needed to perform testing, consisting of test environments, test tools, office environment and procedures. 
+<b>test input</b>: The data received from an external source by the test object during test execution. The external source can be hardware, software or human. 
+<b>test item</b>: The individual element to be tested. There usually is one test object and many test items. See also <i>test object</i>. 
+<b>test item transmittal report</b>: See <i>release note</i>. 
+F <b>test leader</b>: See <i>test manager</i>. 
+F ATM <b>test level</b>: A group of test activities that are organized and managed together. A test level is linked to the responsibilities in a project. Examples of test levels are component test, integration test, system test and acceptance test. [After TMap] 
+F ATM <b>test log</b>: A chronological record of relevant details about the execution of tests. [IEEE 829] 
+<b>test logging</b>: The process of recording information about tests executed into a test log. 
+ATM <b>test management</b>: The planning, estimating, monitoring and control of test activities, typically carried out by a test manager. 
+F ATT <b>test management tool</b>: A tool that provides support to the test management and control part of a test process. It often has several capabilities, such as testware management, scheduling of tests, the logging of results, progress tracking, incident management and test reporting. 
+F <b>test manager</b>: The person responsible for project management of testing activities and resources, and evaluation of a test object. The individual who directs, controls, administers, plans and regulates the evaluation of a test object. 
+ATM EITP <b>Test Maturity Model integration</b>: A five level staged framework for test process improvement, related to the Capability Maturity Model Integration (CMMI), that describes the key elements of an effective test process. 
+ETM <b>test mission</b>: The purpose of testing for an organization, often documented as part of the test policy. See also <i>test policy</i>. 
+F ATM ATA <b>test monitoring</b>: A test management task that deals with the activities related to periodically checking the status of a test project. Reports are prepared that compare the actuals to that which was planned. See also <i>test management</i>. 
+<b>test object</b>: The component or system to be tested. See also <i>test item</i>. 
+F <b>test objective</b>: A reason or purpose for designing and executing a test. 
+<b>test oracle</b>: A source to determine expected results to compare with the actual result of the software under test. An oracle may be the existing system (for a benchmark), other software, a user manual, or an individual's specialized knowledge, but should not be the code. [After Adrion] 
+<b>test outcome</b>: See <i>result</i>. 
+<b>test pass</b>: See <i>pass</i>. 
+<b>test performance indicator</b>: A high level metric of effectiveness and/or efficiency used to guide and control progressive test development, e.g. Defect Detection Percentage (DDP). 
+<b>test phase</b>: A distinct set of test activities collected into a manageable phase of a project, e.g. the execution activities of a test level. [After Gerrard] 
+F ATM <b>test plan</b>: A document describing the scope, approach, resources and schedule of intended test activities. It identifies amongst others test items, the features to be tested, the testing tasks, who will do each task, degree of tester independence, the test environment, the test design techniques and entry and exit criteria to be used, and the rationale for their choice, and any risks requiring contingency planning. It is a record of the test planning process. [After IEEE 829] 
+ATM ATA <b>test planning</b>: The activity of establishing or updating a test plan. 
+<b>Test Point Analysis (TPA)</b>: A formula based test estimation method based on function point analysis. [TMap] 
+F ATM EITP ETM <b>test policy</b>: A high level document describing the principles, approach and major objectives of the organization regarding testing. 
+F ATM <b>test procedure</b>: See <i>test procedure specification</i>. 
+F ATM <b>test procedure specification</b>: A document specifying a sequence of actions for the execution of a test. Also known as test script or manual test script. [After IEEE 829] See also <i>test specification</i>. 
+<b>test process</b>: The fundamental test process comprises test planning and control, test analysis and design, test implementation and execution, evaluating exit criteria and reporting, and test closure activities. 
+EITP <b>Test Process Group</b>: A collection of (test) specialists who facilitate the definition, maintenance, and improvement of the test processes used by an organization. [After CMMI] 
+EITP <b>test process improvement manifesto</b>: A statement that echoes the agile manifesto, and defines values for improving the testing process. The values are: <p>-flexibility over detailed processes <p>-best practices over templates <p>-deployment orientation over process orientation <p>-peer reviews over quality assurance (departments) <p>-business driven over model driven. [Veenendaal08] 
+EITP <b>test process improver</b>: A person implementing improvements in the test process based on a test improvement plan. 
+<b>test progress report</b>: A document summarizing testing activities and results, produced at regular intervals, to report progress of testing activities against a baseline (such as the original test plan) and to communicate risks and alternatives requiring a decision to management. 
+<b>test record</b>: See <i>test log</i>. 
+<b>test recording</b>: See <i>test logging</i>. 
+<b>test report</b>: See <i>test summary report and test progress report</i>. 
+<b>test reproducibility</b>: An attribute of a test indicating whether the same results are produced each time the test is executed. 
+<b>test requirement</b>: See <i>test condition</i>. 
+<b>test result</b>: See <i>result</i>. 
+<b>test rig</b>: See <i>test environment</i>. 
+<b>test run</b>: Execution of a test on a specific version of the test object. 
+<b>test run log</b>: See <i>test log</i>. 
+<b>test scenario</b>: See <i>test procedure specification</i>. 
+<b>test schedule</b>: A list of activities, tasks or events of the test process, identifying their intended start and finish dates and/or times, and interdependencies. 
+F ATM <b>test script</b>: Commonly used to refer to a test procedure specification, especially an automated one. 
+<b>test session</b>: An uninterrupted period of time spent in executing tests. In exploratory testing, each test session is focused on a charter, but testers can also explore new opportunities or issues during a session. The tester creates and executes test cases on the fly and records their progress. See also <i>exploratory testing</i>. 
+<b>test set</b>: See <i>test suite</i>. 
+<b>test situation</b>: See <i>test condition</i>. 
+<b>test specification</b>: A document that consists of a test design specification, test case specification and/or test procedure specification. 
+<b>test specification technique</b>: See <i>test design technique</i>. 
+<b>test stage</b>: See <i>test level</i>. 
+F ATM ATA ETM <b>test strategy</b>: A high-level description of the test levels to be performed and the testing within those levels for an organization or programme (one or more projects). 
+F <b>test suite</b>: A set of several test cases for a component or system under test, where the post condition of one test is often used as the precondition for the next one. 
+F ATM <b>test summary report</b>: A document summarizing testing activities and results. It also contains an evaluation of the corresponding test items against exit criteria. [After IEEE 829] 
+<b>test target</b>: A set of exit criteria. 
+<b>test technique</b>: See <i>test design technique</i>. 
+EITP <b>test tool</b>: A software product that supports one or more test activities, such as planning and control, specification, building initial files and data, test execution and test analysis. [TMap] See also <i>CAST</i>. 
+<b>test type</b>: A group of test activities aimed at testing a component or system focused on a specific test objective, i.e. functional test, usability test, regression test etc. A test type may take place on one or more test levels or test phases. [After TMap] 
+ATT <b>testability</b>: The capability of the software product to enable modified software to be tested. [ISO 9126] See also <i>maintainability</i>. 
+<b>testability review</b>: A detailed check of the test basis to determine whether the test basis is at an adequate quality level to act as an input document for the test process. [After TMap] 
+<b>testable requirement</b>: A requirements that is stated in terms that permit establishment of test designs (and subsequently test cases) and execution of tests to determine whether the requirement has been met. [After IEEE 610] 
+F <b>tester</b>: A skilled professional who is involved in the testing of a component or system. 
+F <b>testing</b>: The process consisting of all lifecycle activities, both static and dynamic, concerned with planning, preparation and evaluation of software products and related work products to determine that they satisfy specified requirements, to demonstrate that they are fit for purpose and to detect defects. 
+F <b>testware</b>: Artifacts produced during the test process required to plan, design, and execute tests, such as documentation, scripts, inputs, expected results, set-up and clear-up procedures, files, databases, environment, and any additional software or utilities used in testing. [After Fewster and Graham] 
+<b>thread testing</b>: An approach to component integration testing where the progressive integration of components follows the implementation of subsets of the requirements, as opposed to the integration of components by levels of a hierarchy. 
+<b>three point estimation</b>: A test estimation method using estimated values for the "best case", "worst case", and "most likely case" of the matter being estimated, to define the degree of certainty associated with the resultant estimate. 
+<b>time behavior</b>: See <i>performance</i>. 
+ATM EITP <b>TMMi</b>: See <i>Test Maturity Model integration</i>. 
+<b>top-down testing</b>: An incremental approach to integration testing where the component at the top of the component hierarchy is tested first, with lower level components being simulated by stubs. Tested components are then used to test lower level components. The process is repeated until the lowest level components have been tested. See also <i>integration testing</i>. 
+EITP <b>Total Quality Management</b>: An organization-wide management approach centered on quality, based on the participation of all members of the organization and aiming at longterm success through customer satisfaction, and benefits to all members of the organization and to society. Total Quality Management consists of planning, organizing, directing, control, and assurance. [After ISO 8402] 
+ATM EITP <b>TPI Next</b>: A continuous business-driven framework for test process improvement that describes the key elements of an effective and efficient test process. 
+EITP <b>TPG</b>: See <i>Test Process Group</i>. 
+EITP <b>TQM</b>: See <i>Total Quality Management</i>. 
+F <b>traceability</b>: The ability to identify related items in documentation and software, such as requirements with associated tests. See also <i>horizontal traceability</i>, <i>vertical traceability</i>. 
+EITP <b>transactional analysis</b>: The analysis of transactions between people and within people's minds; a transaction is defined as a stimulus plus a response. Transactions take place between people and between the ego states (personality segments) within one person's mind. 
+EITP <b>transcendent-based quality</b>: A view of quality, wherein quality cannot be precisely defined, but we know it when we see it, or are aware of its absence when it is missing. Quality depends on the perception and affective feelings of an individual or group of individuals towards a product. [After Garvin] See also <i>manufacturing-based quality</i>, <i>product-based quality</i>, <i>user-based quality</i>, <i>value-based quality</i>. 
+ATA <b>understandability</b>: The capability of the software product to enable the user to understand whether the software is suitable, and how it can be used for particular tasks and conditions of use. [ISO 9126] See also <i>usability</i>. 
+<b>unit</b>: See <i>component</i>. 
+F <b>unit test framework</b>: A tool that provides an environment for unit or component testing in which a component can be tested in isolation or with suitable stubs and drivers. It also provides other support for the developer, such as debugging capabilities. [Graham] 
+<b>unit testing</b>: See <i>component testing</i>. 
+<b>unreachable code</b>: Code that cannot be reached and therefore is impossible to execute. 
+<b>usability</b>: The capability of the software to be understood, learned, used and attractive to the user when used under specified conditions. [ISO 9126] 
+F ATA <b>usability testing</b>: Testing to determine the extent to which the software product is understood, easy to learn, easy to operate and attractive to the users under specified conditions. [After ISO 9126] 
+<b>use case</b>: A sequence of transactions in a dialogue between an actor and a component or system with a tangible result, where an actor can be a user or anything that can exchange information with the system. 
+F ATA <b>use case testing</b>: A black box test design technique in which test cases are designed to execute scenarios of use cases. 
+F <b>user acceptance testing</b>: See <i>acceptance testing</i>. 
+EITP <b>user-based quality</b>: A view of quality, wherein quality is the capacity to satisfy needs, wants and desires of the user(s). A product or service that does not fulfill user needs is unlikely to find any users. This is a context dependent, contingent approach to quality since different business characteristics require different qualities of a product. [after Garvin] See also <i>manufacturing-based quality</i>, <i>product-based quality</i>, <i>transcendent-based quality</i>, <i>value-based quality</i>. 
+<b>user scenario testing</b>: See <i>use case testing</i> 
+<b>user story</b>: A high-level user or business requirement commonly used in agile software development, typically consisting of one or more sentences in the everyday or business language capturing what functionality a user needs, any non-functional criteria, and also includes acceptance criteria. See also <i>agile software development</i>, <i>requirement</i>. 
+ATA <b>user story testing</b>: A black box test design technique in which test cases are designed based on user stories to verify their correct implementation. See also <i>user story</i>. 
+<b>user test</b>: A test whereby real-life users are involved to evaluate the usability of a component or system. 
+F <b>V-model</b>: A framework to describe the software development lifecycle activities from requirements specification to maintenance. The V-model illustrates how testing activities can be integrated into each phase of the software development lifecycle. 
+F <b>validation</b>: Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled. [ISO 9000] 
+EITP <b>value-based quality</b>: A view of quality, wherein quality is defined by price. A quality product or service is one that provides desired performance at an acceptable cost. Quality is determined by means of a decision process with stakeholders on trade-offs between time, effort and cost aspects. [After Garvin] See also <i>manufacturing-based quality</i>, <i>product-based quality</i>, <i>transcendent-based quality</i>, <i>user-based quality</i>. 
+<b>variable</b>: An element of storage in a computer that is accessible by a software program by referring to it by a name. 
+F <b>verification</b>: Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled. [ISO 9000] 
+F <b>version control</b>: See <i>configuration control</i>. 
+<b>vertical traceability</b>: The tracing of requirements through the layers of development documentation to components. 
+<b>volume testing</b>: Testing where the system is subjected to large volumes of data. See also <i>resource-utilization testing</i>. 
+F ATM <b>walkthrough</b>: A step-by-step presentation by the author of a document in order to gather information and to establish a common understanding of its content. [Freedman and Weinberg, IEEE 1028] See also <i>peer review</i>. 
+ATA <b>WAMMI</b>: See <i>Website Analysis and MeasureMent Inventory</i>. 
+<b>WBS</b>: See <i>Work Breakdown Structure</i>. 
+ATA <b>Website Analysis and MeasureMent Inventory (WAMMI)</b>: A questionnaire-based usability test technique for measuring web site software quality from the end user's point of view. 
+<b>white-box technique</b>: See <i>white-box test design technique</i>. 
+F ATT <b>white-box test design technique</b>: Procedure to derive and/or select test cases based on an analysis of the internal structure of a component or system. 
+F <b>white-box testing</b>: Testing based on an analysis of the internal structure of the component or system. 
+ATM <b>Wide Band Delphi</b>: An expert based test estimation technique that aims at making an accurate estimation using the collective wisdom of the team members. 
+ATT <b>wild pointer</b>: A pointer that references a location that is out of scope for that pointer or that does not exist. See also <i>pointer</i>. 
+<b>Work Breakdown Structure</b>: An arrangement of work elements and their relationship to each other and to the end product. [CMMI] 

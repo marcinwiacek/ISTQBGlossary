@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Słownik ISTQB</string>
+    <string name="ad_unit_id"></string>
+    <string name="search_hint">Szukanie - hasła</string>
+    <string name="opis">Szukanie w słownikach wybranych w aplikacji</string>    
+</resources>
